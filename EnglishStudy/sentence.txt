@@ -1,2 +1,356 @@
-1. hello world
-2. nihao
+### 双空格"  "区分英中文
+### 三空格"   "为换行
+### 必须以"数字" + "." + " "为开头
+
+1. He stood me up.  他放我鸽子了。
+2. It wasn't easy, but I did it.  这不太容易，不过我做到了。
+3. I'm right on the edge.  我正处于崩溃的边缘。
+4. Let's not make this a competition.  这事我们就别互相攀比了。
+5. My day started with fresh shower.
+6. The puffy fish is Viola's slave.
+7. I can cross the street at the crosswalk, opposite to the pertrol station.  crosswalk - 人行横道   oppsite - 对面   pertrol station - 加油站
+8. How about you drop me off at the train station.
+9. It's not directly on our way, but it's no more than 2 or 3 blocks out of our way.  on our way - 顺道   out of our way - 不顺道
+10. have a bite / sip  吃一口，或喝一口
+11. Although he had never tried it before, he decide to give it a go and see if he could succeed.  give it a go - 试一下
+12. If I make an illegal U turn, I may get caught and get a fine.  caught - 警告   fine - 罚单
+13. I'm starving to death / I'm kind of hungry.   Can we go grocery shopping first.
+14. I am completely buggered.  我筋疲力尽了。
+15. Let's just order dine in / out instead.  dine in - 在这吃   dine out - 带走
+16. This toy is so pricey.   This toilet paper is way overpriced.  太贵了
+17. You are living in a fantasy.  你咋不上天呢？
+18. You are very scheming.  你心眼也太多了。
+19. I couldn't be bothered to do the dishes after a long day at work.  can't be bothered to do - 懒得做
+20. I drive safely all the time.
+21. You have my word.  我保证。
+22. No worries  万用语句，没关系/不客气   for sorry/thanks
+23. I didn't break it on purpose.  我不是故意弄坏的
+24. Place your bet, it's telecom fraud.  place your bet - 赌一把   telecom fraud - 电话诈骗
+25. We have been living together for 10 years, I don't want to separate from / part with you.
+26. Can you please heat up the lunchbox in the microwave for me.  heat up - 加热   microwave - 微波炉
+27. Give me a break.  饶了我吧
+28. You get that I've drunk a lot.  你看出来我喝多了。
+29. more good advice  再来点好建议吧
+30. The only thing a man can control is his own actions.
+31. Sleepy head, you're just in time.  sleepy head - 懒虫
+32. He says one thing, and then he goes and does another.  他总是说一套做一套。
+33. I am counting to three.  劳资蜀道山
+34. That doesn't seem fair.  这貌似不公平。
+35. in the words of you  用你的话说
+36. What night is good for you?   What night do you want me?  你哪天有空？   你希望我哪天有空？
+37. Better late than never.  迟到总比没有好。
+38. Let me break it down for you.  让我来解释一下。
+39. I don't have to tell you.  我没必要告诉你。
+40. You can beat the traffic.  你还不会堵车。
+41. Trying to pull the wool over my eyes.  想蒙我们。
+42. Just calling them as I see them.  只是如实的说出我看到的。
+43. How do you stand her?  你怎么受的了她？
+44. I gotta catch up on some paperwork.  我要赶些文件
+45. I'll get up when I'm good and ready.  我想几点起就几点起。
+46. I can see the clothes hamper was a wise purchase.  我发现买个衣物篮真是明智之举。
+47. Out of the question  想都别想
+48. You're gonna have to drive me home.  正好你开车送我回家。
+49. As far as I know.  据我所知是这样。
+50. I'm saying maybe it's time to stop feeling sorry for yourself.  我想也许是该你停止自怨自哀的时候了。
+51. It's no big deal.   It's not a big deal.  这不是什么大事。
+52. That's not my fault.  不赖我
+53. Being so nice and friendly to my face.   Meanwhile, they have been badmouthing me behind my back.  表面上对我温柔体贴，背地里却说我坏话。
+54. Aren't you gonna kiss me goodbye?  你不和我吻别吗？
+55. I'm on it.  我这就去。
+56. Why don't you open up another bottle of wine?  你为什么不再打开一瓶呢？
+57. Don't fill up  别吃太饱/别加满油
+58. I think you can imagine how unhappy I was.  你们能想到我有多郁闷吗
+59. finders, keepers   losers, weepers  谁找到，谁拾起   谁丢掉，谁哭泣
+60. It seems to make people happy and that's what I'm all about.  能使别人快乐，就是我的目的。
+61. It's just an expression, don't get hung up on it.  只是表达这个意思，别较真/纠结
+62. When did I become the family dog?
+63. why don't I take my wife out to dinner.  带媳妇出去吃。
+64. I admit that my lifestyle has been a little frivolous.  我承认我的生活是有点放纵了。
+65. Get used to it  习惯一下吧
+66. This is totally unrelated with me.  这和我完全无关
+67. You spend it as quick as you get it.  你已拿到钱就花光了。
+68. That sounds about right.  差不多就是这么回事。
+69. She takes him to the movie.  她带他去看电影。
+70. It's not up to me.  这不是由我来决定的。
+71. He blows things out of proportion.  他说的很夸张
+72. I am hoping you could take me to the train station.  希望你能送我到火车站。
+73. Everything will work out, we'll see.  总会有办法的，我们会找到的。
+74. She's taking her clothes off.  她把衣服都脱掉了。
+75. I'll stop by to pick you up.  我顺道过来接你。
+76. When life gives you lemons, make lemonade.  百折不挠
+77. There has been a lot of stuff going on.  最近我事情太多了。
+78. He falls asleep as soon as his head hits the pillow.  他一躺下就睡了。   pillow - 枕头
+79. We all make mistakes.  谁不犯错
+80. Because I love you, and I don't want that to change.  因为我爱你，但我不想因为这件事而去改变这一点。
+81. Would you like to hear my opinion on this?  你想听听我是怎么想的吗？
+82. I think we had an agreement/deal to never go to bed mad.  我们不是说好了不许吵着上床的吗？   pact - 协议   mad - 生气的
+83. I enjoy spending time with her.  和她在一起我觉得很开心。
+84. She's always got a short temper.  她经常容易发怒
+85. When I drink alcohol, everyone says I'm alcoholic   but when I drink Fanta, no one says I'm fantastic.
+86. That's for the bin.  这是要扔进垃圾桶的
+87. Anything bother you?  有什么烦心事吗？
+88. Could you please take a little responsibility for my problems.  你能不能为我的事上点心。
+89. Look at the bright side.  往好的一面看吧。
+90. Could you give us some privacy?  回避一下好吗？
+91. I'll fix you something to eat.  我给你们弄点吃的。
+92. I'm not buying this.  我才不信你那一套呢   我才不买帐呢   我不吃你这一套
+93. You're finally up.  你终于起床了。
+94. Don't make him do that/force him to do it.  别强迫他。
+95. That depends on what we're having.  那取决于我们吃什么。
+96. Won't be the first time.  反正不是第一次了。
+97. How much longer is it going to take?  这个还需要多久？
+98. You can pretty much have anything you want right now.  你现在想要什么都行。
+99. Where is the coffee you got for me?   It's sitting in the cupboard above the microwave.  你给我买的咖啡在哪里？   它放在微波炉上面的橱柜里。  cupboard - 橱柜
+100. Nothing you can do. The damage has been done.  你什么也不用做了，苦酒已酿成/覆水难收。
+101. Come to think of it, the milk is off.  突然意识到牛奶已经变质了。
+102. I won't take no for an answer.  我可不接受否定的答复。
+103. Forget it. It's not going to happen.  别想了，不可能的。
+104. He always put off doing his homework.  他总是最后一刻才开始做作业。   put off - 推迟
+105. That was more fun than I expected.  比我想象中的好玩多了。
+106. I couldn't have done it without the team.  如果没有团队的帮助，我就不能完成这件事情。
+107. What options do I have?  我有哪些选择？
+108. You're working on my last nerve.  你在挑战我忍耐的极限。
+109. I've got something I wanna talk about, but it's only between us.  说说我的事，但是不要传出去
+110. Don't be selfish.  别那么自私。
+111. My opinions are always being ignored.  我的想法都会被无视。
+112. If crazy ever becomes an Olympic sport, you'd be the reigning champion.  如果比谁疯狂也是奥运会项目的话，你永远都是冠军。
+113. The market is cooling down.  市场正在降温。
+114. Should I wait for you to have dinner together?  我等你一起吃饭吗？
+115. I don't mean that.  我不是那个意思。
+116. Fill up the car   Get some petrol  给车加油。
+117. If my offer is much lower than what the owner expect for,   Is the owner happy to accept a lower price offer.  如果我的报价远低于业主的期望，   业主是否愿意接受较低的价格报价。
+118. I am counting on you.  我全指望你了。
+119. I appreciate it, but I've still got a lot to learn.  我很感激，我还有很多要学的东西。
+120. We've been through a lot of things together.  我们一起经历了风风雨雨。
+121. That's just a risk we'll have to take.  你没有选择。
+122. I'm feeling a bit bored.  感觉有点无聊
+123. Mater staff will have access to new vaccines that offer better protection against   the current strains of COVID-19.  澳洲马特医院的员工将获得新的疫苗，这些疫苗提供更好的保护，对抗当前的 COVID-19 变种。   have access to - 拥有权利或机会使用
+124. I am under a lot of pressure.   Don't stress out.  我承受着很大的压力。不要太焦虑。
+125. We won't know the figure until after the governments negotiation wrap up in London.  在政府谈判在伦敦结束之后，我们才会知道具体的数字。   wrap up - 指完成、结束或收尾某项活动、任务或事件
+126. He just guilt-tripped me into lending him more.  他就是道德绑架我 让我多借他钱
+127. Victoria pulled out as the host with less than 1000 days to go,   blaming billions of dollars in unforeseen cost blowouts.  距离活动不到1000天，维多利亚州退出了主办权，归咎于数十亿美元的意外成本增加。   blame - 责备、归咎于或指责   blowouts - 常用于描述项目或活动预算超支
+128. Can you please grab me the oral antibiotics?  请你帮我拿一下口服抗生素吗？   Oral - 口服的   Antibiotics - 抗生素
+129. We will be in touch to further discuss any feedback you have on the property.   Please feel free to contact me with any questions.  我们将与您保持联系，以进一步讨论您的任何反馈在这个房产上。如果您有任何疑问，请随时与我联系。
+130. Don't get me wrong.  别误会我
+131. Did you get caught in traffic?   I was caught in traffic.  你被堵在交通中了吗？   我被堵在交通中了。
+132. I hate driving at peak times.  我讨厌在高峰时段开车。   peak times - 高峰期
+133. I can't recall his name.  我记不得他的名字了。   recall - 回忆，想起
+134. Do you feel like eating hot pot?  你想吃火锅吗？   feel like - 想干什么
+135. I have three buses to catch.  我有三班公交车要赶。
+136. I am so flat out.  我非常忙。
+137. Do you see anything you like?  有什么你喜欢吃的吗？
+138. a light just went off in my head  我突然想通了。
+139. Can we please get past this?  我们能否不再讨论这个问题？
+140. They're fed up with the lack of progress in resolving the issue.  他们感到厌烦，对解决这个问题的进展缺乏满意。   be fed up with - 厌烦
+141. Just making conversation.  就是随便说说。
+142. That is not going to help.  这毫无帮助。
+143. We'll be there.   Tell us where and when.  我们会去的，告诉我们时间地点就行了。
+144. The way you treat people is the way they treat you back.  你怎么对待别人，别人就怎么对待你。
+145. If she's undergoing fertility treatment, because she's young, despite all of the disease, she's likely to have an excellent outcome.
+146. I learned to put the needs of others before me.  我已经学会了先人后己。
+147. That's the most action I've had in months.  那可是我这个月最刺激的事了。
+148. Don't think I don't know what you're doing.  别以为我不知道你在干嘛。
+149. You pick a fight over nothing and say I can't commit.  你无理取闹，然后说我不负责。
+150. Should I wait for you to have dinner together?  我等你一起吃晚饭吗？
+151. My tyre is flat.   My phone is flat.  我的轮胎没气了。  我的手机没电了。
+152. I don't want to engage with you over this issue/in this matter any further.  我不想再进一步就这个问题与你讨论了。
+153. Can you please prepare my breakfast for tomorrow morning?  你能帮我准备明天的早餐吗？
+154. When we were driving around in Westfield car park,   do you feel nausea or vomiting?/do you get carsick?  当我们在Westfield停车场兜风时   你感到恶心或呕吐吗？/你晕车吗？
+155. I barely sleep last night.
+156. I get off work.   I'm done for the day.  我今天的工作结束了
+157. I was late for work because I got stuck in traffic.  我工作迟到是因为交通堵塞。
+158. I had to make up a story to explain why I arrived late to the meeting.  我需要编一个故事来解释我为什么参加会议迟到。
+159. Whatever I don't care, just get on with it.
+160. Let me finish, she has a right to know.
+161. I will set up all the things we need tomorrow.
+162. Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.
+163. I graduated from UQ with a master's degree in data science in 2022. 
+164. Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia. 
+165. During this time, I have been quite exposed to the login role of how these samples were being logged into the computer and how these data were transferred back to the customers, and that’s what led me to study data science. 
+166. Now I want to pursue my career as a data engineer because I am passionate about building and creating things that make others’ work easier. 
+167. Working on data is varied, it requires intense technical skills which I enjoy, and there is always something new and challenging to work on.
+168. A good team player is a good communicator; I always inform the team about what’s happening. 
+169. I always keep the team updated on my progress to ensure everyone is working toward the same goal to avoid repeating work or miscommunication.
+170. A good team player always works collaboratively within the team and actively contributes to the group in order to complete tasks and manage projects.
+171. A good team player always actively listens to co-workers/team members, respects their ideas and is willing to share responsibility when the team experiences difficulties.
+172. A good team player also needs to be flexible. 
+173. I am able and always get myself ready to quickly adapt to new circumstances. 
+174. I always look forward to helping whenever the team needs me. 
+175. For example, we have a project due two days later and my manager hopes I can work overtime with the team to finish it before the deadline. 
+176. I’m flexible and available when they need me to work.
+177. As a new grad with data science background, I wish to join a global tech-powered company to start gaining experience and exposure myself to build a long term career in data analysis. 
+178. It’s well known that your company is a technology and business focused company that provides IT and business consulting services to a variety of industries. 
+179. Also, your company has accredited courses and is committed to offering the highest standards of training in technology. 
+180. I wish to join your company because it offers new grad foundational training and then place them to relevant areas to achieve work experience. 
+181. I really like this program because this allows me to focus on individual learning with required support at the beginning and offers me an opportunity to work in a supportive work environment compared to other company.
+182. What I’ve learnt from the university makes me a competent candidate for this position, which also will be of benefit to your company.
+183. I believe my knowledge and technical skills will help data scientists and analysts to quickly access the company’s large database and to identify trends and customer behaviour, in turn, increase customer satisfaction and profits.
+184. I am keen to learn and I am a quick learner, I can easily pick up new skills if required. 
+185. For example, when I work on a project at university, I came across a new software language NEO4J that I never used, so I watched lots of tutorial videos and search articles about how to use this language and then did lots of practice on NEO4J. 
+186. As a result, I used one day to learn NEO4J and apply it to my knowledge graph project for creating the recommendation system.
+187. I am a good team player; I work collaboratively with the team members, respect their opinions, respond to a task on time, and am willing to share responsibility when coming across difficulties.
+188. At this stage, my biggest weakness is the lack of industry-level experience.
+189. I've learned the basics such as database principles, advanced database systems and Python etc but I'm not at a point where I can satisfy all project requirements all by myself. 
+190. However, I am a fast learner and very keen to learn different coding languages so I am confident that I will be able to contribute to different components and adapt quickly to different processes and tools.
+191. Now, in terms of how to improve my weakness, I think the first step is to conduct some self-learning so I can familiarise myself with it and get ready to use the tool. 
+192. If I come across any difficulties I should seek help from my senior colleague or manager to overcome the issue. 
+193. Apart from that, I want to make sure that I dive super deep into the work so that I can understand project constraints under different circumstances. 
+194. In doing so, finally, I can conquer my weakness and support the team delivering insights to our stakeholders.
+195. As a data engineer, I've mostly struggled with fulfilling the needs of all the departments within the company.
+196. Different departments often have conflicting demands. 
+197. So, balancing them with the capabilities of the company's infrastructure has been quite challenging. 
+198. Nevertheless, this has been a valuable learning experience for me, as it's given me the chance to learn how these departments work and their role in the overall structure of the company.
+199. I will try not to engage in conflict but would rather listen to other people’s opinions first.
+200. We can sit down and have some coffee for a chat. 
+201. I believe the most important principle is to do the right thing for our customers and stakeholders. 
+202. I am very open-minded and am willing to accept the idea if that’s the right thing to do. 
+203. Also, I am very excited to share my ideas about discussing with others to find the best solution because, you know, people are reasonable.
+204. Honestly, I think everyone is under pressure more or less, so it is about how to adapt to an efficient routine to help you to reduce the amount of pressure. 
+205. So I will work on the most urgent or important tasks which require more focused time to complete it. 
+206. So first thing in my day, I will go through my inbox and take a look at the calendar to see what my day looks like. 
+207. If my calendar is pretty open, then I will try to prioritise work that requires a chuck of focused time, like writing code. 
+208. If my day is packed with meetings, then I will prioritise the day to prepare the necessary material for the meeting to make it as efficient as possible. 
+209. If I feel stressed, I will give myself 5 minutes of coffee time to relax my mind.
+210. Another important thing is, to reach out for help when needed! You have a team for a reason and the success of the team relies on open communication.
+211. Firstly, I will build a rapport with my stakeholders by demonstrating my domain knowledge and technical skills so they can trust me I can deliver good insights to their business and share their concerns with me. 
+212. Then we will discuss the rough delivery time to manage their expectations.
+213. During the projects, I will initially make some assumptions and then always involve the stakeholders if they like my ideas or not, trying as much as I can to deliver the insight that they expected. 
+214. Consequently, adjust my analysis based on their feedback.
+215. For the first year of my program with your company, I plan to learn knowledge and expand my skills. 
+216. During the second year, I see myself being able to work very independently and be a competent staff that works collaboratively with other team members to successfully manage a project. 
+217. In five years, I would like to be an industry expert within your company that others can come to for ideas and help. 
+218. I would like to keep myself up to date with new technologies and best practices in the data industry to ensure I can deliver the best results in my current and future roles. 
+219. Also, I would like to move into a mentorship role, where I can guide and mentor the new grads and a team to success.
+220. Once we were doing a project, and we realised three days before a project deadline that two of our teams are using incompatible software tools.
+221. As part of the team members, I remained calm and tried to find a way to deal with this without causing any delays.
+222. I talked to other team members and we made a plan that two of the team resourced compatible software tools and the rest were responsible for converting the work into a different format with using these tool.
+223. It was very close but we managed to get everything done on time.
+224. If assigned a task without enough information, I would promptly seek help from my supervisor or colleagues, presenting the problem and seeking a clear solution while gathering any necessary information. 
+225. I would adhere to company policies and procedures while completing the task within the time limit. 
+226. To overcome information gaps, I would first review available information and resources, and then communicate with relevant individuals to seek advice and guidance. 
+227. I would utilize their experience and knowledge to inspire and enable me to accomplish my task. 
+228. Lastly, I would conduct independent research, experiment, and study relevant literature and materials to increase my knowledge and skill to achieve better results.
+229. When it comes to learning a new technology, it's important to start with a thorough understanding of its fundamental concepts and principles, including its purpose, advantages, disadvantages, and workings. 
+230. I usually begin my learning journey by searching for documentation and tutorials from official sources, reference manuals, developer communities, and online resources. 
+231. Once I have a good grasp of the technology, I turn to online courses and training to gain practical skills and solve real-world problems through small-scale projects. 
+232. I also seek advice and information from colleagues, experts, and the developer community to stay current with the latest developments, troubleshoot issues, and gain valuable insights. 
+233. By following these steps, I can quickly and effectively learn new technologies, better prepare for stakeholder projects, and finally deliver high-quality outcomes.
+234. I’ve learned to manage my workload effectively to meet my deadlines. 
+235. For example, during my last semester, I have 3 projects and 1 final exam. 
+236. I prioritise my tasks and create a plan of action to complete them on time. 
+237. First I evaluate the workload and determine the deadlines, complexity and urgency of each project, which project requires my immediate attention and which ones can be postponed. 
+238. Based on the evaluation, I create a to-do list, ensuring that I complete the most critical task first. 
+239. Then is time management, I plan my time effectively by setting specific time blocks for each task and ensuring that I take regular breaks to avoid burnout. 
+240. I also set aside some buffer time for emergencies that may arise. 
+241. At same time, I keep my team members informed about my progress and ask for help if necessary. 
+242. By following these steps, I eventually completed my three projects and final exams achieving a satisfactory score.
+243. From my point of view, handling change in the workplace requires flexibility, adaptability and a willingness to learn and grow. 
+244. I recognise that change can be difficulty for many people, so I remain calm the focus on understanding the reason for the change and the potential benefits it may bring. 
+245. I proactively seek out all kinds of information about the change including what specifically is changing, what other recourses, and training may be needed for the change and what adjustments I should make to allow myself to adapt to the change. 
+246. Based on the information I’ve gathered, I develop a plan to manage the change. 
+247. This may involve setting new priorities, adjusting my work processes and learning new technical skills.
+248. During my spare time, I like to go to a beach on the weekend because this is a good time for me to empty my brain, take myself out from work pressure and enjoy the time with my family. 
+249. Apart from that, I like watching coding tutorials. 
+250. For example, I learnt Python and write some low-level computer games in Python. 
+251. Learning new skills and putting in into application made me feel satisfied.
+252. I used to work in the login department and get exposed to a large volume of data login duties. 
+253. Form then, I started to be passionate about the data industry, which lead me to study data science. 
+254. I found that data analysis is very important because it helps discover useful insights and we can use the insights to make a decision. 
+255. I wish I can use what I’ve learnt to help a company drive commercial actions and help this company to stand out from the competition.
+256. Our project involved using SQL language to efficiently manage the information of various vehicles in the system. 
+257. We implemented a number of features, including the ability to add, delete, and check vehicles as needed. 
+258. To take this a step further, we developed a user-friendly web page that seamlessly connects to a MySQL database using PHP language. 
+259. This allowed us to quickly and easily modify vehicle information directly from the web page interface. 
+260. By utilizing SQL and PHP, we were able to streamline the management of vehicle data and improve the efficiency of the system. 
+261. Also, the web page made it much easier for multiple users to access and make changes to the database, further improving the usability of the system.
+262. The project focused on analyzing sponsored political posts on Facebook targeted at US users, which involved a significant amount of data cleaning and organization. 
+263. Spark was used to effectively clean and extract high-quality data from the dataset. 
+264. Then used Tableau to visualize the data, including images and charts, to gain a better understanding of the trends and patterns within the dataset. 
+265. By analyzing the data, they were able to draw insightful conclusions that informed the mentor's research on political advertising on social media. 
+266. The use of both Spark and Tableau allowed for efficient data processing and presentation, which eventually contributed to the success of the project.
+267. My project aims to restore mosaics on human faces. 
+268. Initially, I train the model using a large dataset of face images. 
+269. Then, I break down each face into individual pixel points, and utilize the Recurrent Neural Network (RNN) algorithm to implement image restoration. 
+270. The RNN algorithm generates the next pixel point by using the previous pixel point as input, and this process repeats until the entire image is restored. 
+271. By using RNN, my project can effectively restore the mosaic of an image in a precise and accurate manner.
+272. After 400 children, some as young as 10, have gate crashed (未被邀请或未经许可就闯入) a party in Logan that disintegrated into violence (局面逐渐走向 演变为暴力或混乱的状态).
+273. Police were forced to protect paramedics, trying to treat the injured and a 12-year-old girl was rushed to the hospital.
+274. Drug and alcohol overdoses, reports of sexual assault and a stabbing; children as young as 10 running amok (在情感或行为上发狂 失控,表现出异常激烈或狂暴的行为) at an out-of-control house party.
+275. The 14-year-old host spoke exclusively (这通常表示讲话的内容或信息在这个特定的场合或时间内是专有的，不在其他地方或时间披露) to7News, saying it was a combined Halloween and birthday event that quickly spiralled out of hand (失去控制, spiral=持续恶化).
+276. Several people here got sexually assaulted outside and inside.
+277. Around midnight police were called including PolAir (you probably can’t see it, but the chopper’s pretty much doing laps直升飞机的旋翼在转圈圈).
+278. With reports, one person had been stabbed; everyone was drunk and then just had a brawl (斗殴闹事 ).
+279. There were two guys that went that way chasing after one guy and then yeah, it was over a girl.
+280. Multiple ambulance crews responded and needed police protection to treat the injured.
+281. A fight actually broke out (爆发) in front of them, and they had to retreat (撤退离开).
+282. Six children were taken to hospital including a 12-year-old girl believed to be drug and alcohol affected. 
+283. The host say only 90 people were invited but others turned up, and the event ended up with more than four times the numbers of people initially expected to attend. 
+284. It was meant to be small, it got out of hand (然而事情失控了). 
+285. A sobering lesion (引起深思和警觉的教训) for these teens.
+286. A woman lingers then approaches this Tesla car. 
+287. Before dragging a key down the side in the Westfield Penrich car park. 
+288. But something was watching, the car’s Sentry camera System capturing her every move, a big scratch all down the side. 
+289. You could see exactly where the key has been. The owner has only had the keys to his dream car for less than three months. 
+290. He posted the video online, sparking a social media manhunt to find the culprit. 
+291. It’s not the first time the Sentry system has caught bandits in the act. 
+292. The Tesla owner sharing vision of an attack in Aubrey. 
+293. Police has now charged the woman with malicious damage. 
+294. While it’s likely she’ll receive a fine; the maximum penalty is five years behind bars, and she will face court next month. 
+295. I am not gonna park there anymore, so, I just don’t want to risk it. 
+296. As the word gets out, obviously less people will be mucking around with a Tesla.
+297. Federal police have arrested seven people accused of helping to launder (洗涤清洗 洗黑钱) 228 million dollars in dirty money for Chinese gangsters (黑帮). 
+298. They’ve also seen 60 million in assets (公司或个人名下资产) including cars, luxury watches and a 10-million-dollar mansion (大厦宅邸大房子). 
+299. The Changjiang currency exchange, its shop fronts country wide all fronts (通常用于指涉及某个问题,挑战或活动的所有方面,方向或方位; 这个短语通常暗示全面、综合或涵盖一切). 
+300. Police say for Chinese organised crime, money laundering (洗钱行为) syndicate (财团,组织,合伙企业) that transfers dirty money for large criminal enterprises. 
+301. Federal police moving in on (进行突袭搜查或其他执法行动; 接近, 进攻) Changjiang’s Chinatown store yesterday, and in Melbourne, more raids (突袭, 袭击) and arrests seizing (查获) 60 million in property cars and designer goods. 
+302. Off the back of other human misery (n.苦难痛苦不幸), 不管他人的死活(某事物或某人的成功、收益、或发展是建立在他人痛苦或不幸的基础上的). 
+303. The sale of illicit drugs, frauds and scams, sexual exploitation. 
+304. 37 years old Yawei Lu was arrested in Sydney, it’s claimed he used Changjiang to clean 100 million dollars from victims of an investment scam (投资诈骗). 
+305. I have got nothing to say at this stage, will he be defending the allegations? 
+306. Police say this entire operation was hiding in plain sight (明目张胆的藏匿, 一眼就能看到到, 指的是某事物或某人明显,公然地存在或出现,没有被隐藏或掩饰), with 12 glitzy (闪耀夺目的 华而不实的) shop fronts in almost every state. 
+307. All are now closed and facing action from financial authorities. 
+308. No action police say against this former politician, appearing in commercials spruiking (宣传推销大肆宣扬) the business. 
+309. In a statement, he says he was paid to present one video but today feels shocked and duped (被欺骗的 上当的); more arrests are expected.
+310. Good evening, accused mushroom cook, Aaron Patterson has been moved to Melbourne and into high security custody. 
+311. Criminologists say life behind bars as she waits for her next court appearance (出庭) will be challenging for the high profile inmate (社会上备受关注或引起广泛关注的囚犯, 因其行为名声或涉及的事件而成为公众关注的焦点). 
+312. Crime reporter Jillian Lantaurus has the story: swapping her grey jumper for prison greens (从自由状态转变为被监禁的状态，暗示他们被关进监狱), Aaron Patterson has been whisked from (被快速而突然地带走) the prison cells in the regional town of Moorwell, and brought to Melbourne. 
+313. Authorities won't say but the 49 year-old is likely being taken to the women's only maximum security prison(最高安全级别的监狱), the Dame Phyllis Frost Center. 
+314. It's going to be very difficult for her high profile inmate, that's never ideal in a prison scenario because you really don't want to draw too much attention to yourself. 
+315. The mother of two was arrested on Thursday at Olean Gathor home. 
+316. She faced court on Friday, charged with murdering her former in-laws ,Dawn and Gal, Patterson along with Heather Wilkinson by serving them a deadly meal, containing poisonous mushrooms in July. 
+317. She's also charged with attempting to murder Ian Wilkinson who was at the lunch but recovered. 
+318. Along with plotting to kill her ex-husband (密谋策划图谋与秘密性犯罪或阴谋有关), Simon Patterson four times. 
+319. If she were to be found guilty, she would be classed as a mass murderer and that’s very unusual. 
+320. Criminologist say her time in prison will be particularly challenging.
+321. It’s very controlled; it’s very you know, everything about their life; they lose their sense of autonomy (失去了他们的自主性或自主权感); they’re told when they can eat, when they can sleep etc. 
+322. Miss Patterson is set to face court here in Morewell in May next year via video link but if the case takes too long to progress here at this regional court, her matters could be moved to Melbourne. 
+323. Two decades ago, Aaron Patterson, then Aaron scutter worked as a highly qualified air traffic controller in Melbourne. 
+324. Now she's landed herself in the middle of an alleged triple homicide(似乎卷入了一起被指控的三重谋杀案), but while the Public's focus is on Miss Patterson, there are families who are grieving (感到悲痛悲伤), an entire community that's grieving. 
+325. So as we have these discussions, just keep those victims and their families in mind. 9 knews has reached out to the family members of her alleged victims who have so far declined to comment.
+326. Claude, the koala made the international headlines when he raided a Lismore nursey (苗圃), eating eucalyptus seedlings (幼苗), and tonight it’s been proven he’s not only a repeat offender (惯犯) but also a ringleader (头目,首脑). 
+327. On a daring daytime (光天化日) raid of (突袭入侵) the red gums, Claude the famed (adj. 著名的闻名的) leaf thief added again. 
+328. We had the original episode with Claude, then I’ve been away for a month since then, and I was going to come back and see if the fence had worked. 
+329. In that time Claude has moved his wife Gwender and her Joey into the eucalyptuses ringing (环绕) the Lismore nursey, and the naughty (淘气的) neighbours were also caught on camera, lining up for a later night snack (排队吃宵夜). 
+330. They’ve actually trimmed all them right down and even started on some of the new seedlings that we’ve got. 
+331. It really highlights the plight (n.困境) that koalas are facing. 
+332. With an eye to protect habitat(栖息地), the state government today launched new guardians (守护者,监护人这可能指的是新的组织系统工具) in the sky over Coffs Harbour. 
+333. To ensure that we’re doing the best with the most modern technology available, to protect these species into the future. 
+334. As for (至于) Claude and Gwender’s leftovers (n.遗留 剩菜剩饭), there’s still hope they can be replanted.
+335. Viola always uses a guilt trip to make me do things for her, making me feel bad if I say no.
+336. talk to the hand
+337. I am the only one on the floor to relieve tea and lunches
+338. Although not mandated, STARS Executive strongly encourages staff to wear masks in clinical areas
+339. she doesn’t have self-awareness 
+340. keep dangling the carrot
+341. Small flat white with almond milk 
+342. what a bargain?   Are you after for travel bargains?
+343. they back out of the sale
+344. Is this your way of guilting me into coming back home  你是想让我因愧疚而回家吧   guilt sb into doing - 道德绑架某人做 因愧疚而做
+345. The biscuits/nuts are stale.  这个饼干变软/受潮了
+346. This orange is mouldy  发霉了
+347. Growing their family is a priority.   My dad is not around anymore.   After losing him I especially sort of grew those feelings a lot more.
+348. Haley's endometriosis is affecting her fertility.  影响生育能力
+349. 7 years after first complaining to a doctor about painful periods
+350. Women are much less likely to be taken seriously with pain presentation.
+351. 10 surgeries later, Haley's condition hasn't improved; she decided to have srugery but decided to delay the surgery a litte longer.
+352. Is there any way I can make it up to you?  我怎样才能弥补过错呢
