@@ -1,0 +1,10 @@
+NewTableWithAlias =
+SELECTCOLUMNS(
+    SUMMARIZE(
+        PBI_ScannerReportsAndDatasets,
+        PBI_ScannerReportsAndDatasets[reportName],
+        PBI_ScannerReportsAndDatasets[workspaceName]
+    ),
+    "RN", PBI_ScannerReportsAndDatasets[reportName],
+    "WN", PBI_ScannerReportsAndDatasets[workspaceName]
+)
