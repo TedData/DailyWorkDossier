@@ -127,7 +127,7 @@
 123. Mater staff will have access to new vaccines that offer better protection against   the current strains of COVID-19.  澳洲马特医院的员工将获得新的疫苗，这些疫苗提供更好的保护，对抗当前的 COVID-19 变种。   have access to - 拥有权利或机会使用
 124. I am under a lot of pressure.   Don't stress out.  我承受着很大的压力。不要太焦虑。
 125. We won't know the figure until after the governments negotiation wrap up in London.  在政府谈判在伦敦结束之后，我们才会知道具体的数字。   wrap up - 指完成、结束或收尾某项活动、任务或事件
-126. He just guilt-tripped me into lending him more.  他就是道德绑架我 让我多借他钱
+126. I barely sleep last night.
 127. Victoria pulled out as the host with less than 1000 days to go,   blaming billions of dollars in unforeseen cost blowouts.  距离活动不到1000天，维多利亚州退出了主办权，归咎于数十亿美元的意外成本增加。   blame - 责备、归咎于或指责   blowouts - 常用于描述项目或活动预算超支
 128. Can you please grab me the oral antibiotics?  请你帮我拿一下口服抗生素吗？   Oral - 口服的   Antibiotics - 抗生素
 129. We will be in touch to further discuss any feedback you have on the property.   Please feel free to contact me with any questions.  我们将与您保持联系，以进一步讨论您的任何反馈在这个房产上。如果您有任何疑问，请随时与我联系。
@@ -146,7 +146,7 @@
 142. That is not going to help.  这毫无帮助。
 143. We'll be there.   Tell us where and when.  我们会去的，告诉我们时间地点就行了。
 144. The way you treat people is the way they treat you back.  你怎么对待别人，别人就怎么对待你。
-145. If she's undergoing fertility treatment, because she's young, despite all of the disease, she's likely to have an excellent outcome.
+145. Viola always uses a guilt trip to make me do things for her, making me feel bad if I say no.
 146. I learned to put the needs of others before me.  我已经学会了先人后己。
 147. That's the most action I've had in months.  那可是我这个月最刺激的事了。
 148. Don't think I don't know what you're doing.  别以为我不知道你在干嘛。
@@ -156,7 +156,7 @@
 152. I don't want to engage with you over this issue/in this matter any further.  我不想再进一步就这个问题与你讨论了。
 153. Can you please prepare my breakfast for tomorrow morning?  你能帮我准备明天的早餐吗？
 154. When we were driving around in Westfield car park,   do you feel nausea or vomiting?/do you get carsick?  当我们在Westfield停车场兜风时   你感到恶心或呕吐吗？/你晕车吗？
-155. I barely sleep last night.
+155. talk to the hand
 156. I get off work.   I'm done for the day.  我今天的工作结束了
 157. I was late for work because I got stuck in traffic.  我工作迟到是因为交通堵塞。
 158. I had to make up a story to explain why I arrived late to the meeting.  我需要编一个故事来解释我为什么参加会议迟到。
@@ -336,8 +336,8 @@
 332. With an eye to protect habitat(栖息地), the state government today launched new guardians (守护者,监护人这可能指的是新的组织系统工具) in the sky over Coffs Harbour. 
 333. To ensure that we’re doing the best with the most modern technology available, to protect these species into the future. 
 334. As for (至于) Claude and Gwender’s leftovers (n.遗留 剩菜剩饭), there’s still hope they can be replanted.
-335. Viola always uses a guilt trip to make me do things for her, making me feel bad if I say no.
-336. talk to the hand
+335. If she's undergoing fertility treatment, because she's young, despite all of the disease, she's likely to have an excellent outcome.
+336. Is there any way I can make it up to you?  我怎样才能弥补过错呢
 337. I am the only one on the floor to relieve tea and lunches
 338. Although not mandated, STARS Executive strongly encourages staff to wear masks in clinical areas
 339. she doesn’t have self-awareness 
@@ -353,4 +353,3 @@
 349. 7 years after first complaining to a doctor about painful periods
 350. Women are much less likely to be taken seriously with pain presentation.
 351. 10 surgeries later, Haley's condition hasn't improved; she decided to have srugery but decided to delay the surgery a litte longer.
-352. Is there any way I can make it up to you?  我怎样才能弥补过错呢
