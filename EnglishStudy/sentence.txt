@@ -120,11 +120,10 @@ I barely sleep last night.
 Victoria pulled out as the host with less than 1000 days to go,   blaming billions of dollars in unforeseen cost blowouts.  距离活动不到1000天，维多利亚州退出了主办权，归咎于数十亿美元的意外成本增加。   blame - 责备、归咎于或指责   blowouts - 超支, 花超了
 Can you please grab me the oral antibiotics?  请你帮我拿一下口服抗生素吗？   Oral - 口服的   Antibiotics - 抗生素
 We will be in touch to further discuss any feedback you have on the property.   Please feel free to contact me with any questions.  我们将与您保持联系，以进一步讨论您的任何反馈在这个房产上。如果您有任何疑问，请随时与我联系。
-I have escalated your concern to a different team and they will get in touch with you in the next 24 hours.
 Don't get me wrong.  别误会我
 Did you get caught in traffic?   I was caught in traffic.  你被堵在交通中了吗？   我被堵在交通中了。
 I hate driving at peak times/rush hour.  我讨厌在高峰时段开车。   peak times=rush hour - 高峰期
-the soup has gone off   the soup is spoiled.  突然意识到牛奶已经变质了。
+the soup has gone off   the soup is spoiled.  汤已经变质了。
 Do you feel like eating hot pot?  你想吃火锅吗？   feel like - 想干什么
 I have three buses to catch.  我有三班公交车要赶。
 I am so flat out.  我非常忙。
@@ -133,15 +132,13 @@ Can we please get past this?  我们能否不再讨论这个问题？
 They're fed up with the lack of progress in resolving the issue.  他们感到厌烦，对解决这个问题的进展缺乏满意。   be fed up with - 厌烦
 That is not going to help.  这毫无帮助。
 The way you treat people is the way they treat you back.  你怎么对待别人，别人就怎么对待你。
-Viola always guilt-trip me to work overtime for her, making me feel bad if I say no.  Viola总是通过让我感到内疚来让我为她加班，如果我拒绝，她会让我感到难过。
-I have meet the requirements of upgrading to a Gold level.
 Don't think I don't know what you're doing.  别以为我不知道你在干嘛。
 Should I wait for you to have dinner together?  我等你一起吃晚饭吗？
 My tyre is flat.   My phone is flat.  我的轮胎没气了。  我的手机没电了。
 I don't want to engage with you over this issue/in this matter any further.  我不想再进一步就这个问题与你讨论了。
 Can you please prepare my breakfast for tomorrow morning?  你能帮我准备明天的早餐吗？
 When we were driving around in Westfield car park,   do you feel nausea or vomiting?/do you get carsick?  当我们在Westfield停车场兜风时   你感到恶心或呕吐吗？/你晕车吗？
-talk to the hand
+Talk to the hand, I'm not interested.  别跟我说，我不感兴趣。
 I get off work.   I'm done for the day.  我今天的工作结束了
 I was late because I got stuck in traffic.  我工作迟到是因为交通堵塞。
 I had to make up a story to explain why I arrived late to the meeting.  我需要编一个故事来解释我为什么参加会议迟到。
@@ -298,3 +295,6 @@ The biscuits/nuts are stale.  这个饼干变软/受潮了
 This orange is mouldy  发霉了
 7 years after first complaining to a doctor about painful periods.
 10 surgeries later, Haley's condition hasn't improved; she decided to have srugery but decided to delay the surgery a litte longer.
+Viola always guilt-trip me to work overtime for her, making me feel bad if I say no.  Viola总是通过让我感到内疚来让我为她加班，如果我拒绝，她会让我感到难过。
+I have escalated your concern to a different team and they will get in touch with you in the next 24 hours.
+I have meet the requirements of upgrading to a Gold level.
