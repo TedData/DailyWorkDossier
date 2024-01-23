@@ -112,7 +112,6 @@ I am counting on you.  我全指望你了。
 I appreciate it, but I've still got a lot to learn.  我很感激，我还有很多要学的东西。
 We've been through a lot of things together.  我们一起经历了风风雨雨。
 That's just a risk we'll have to take.  你没有选择。
-I'm feeling a bit bored.  感觉有点无聊
 Mater staff will have access to new vaccines that offer better protection against   the current strains of COVID-19.  澳洲马特医院的员工将获得新的疫苗，这些疫苗提供更好的保护，对抗当前的 COVID-19 变种。   have access to - 拥有权利或机会使用
 I am under a lot of pressure.   Don't stress out.  我承受着很大的压力。不要太焦虑。
 We won't know the figure until after the governments negotiation wrap up in London.  在政府谈判在伦敦结束之后，我们才会知道具体的数字。   wrap up - 指完成、结束或收尾某项活动、任务或事件
@@ -122,14 +121,14 @@ Can you please grab me the oral antibiotics?  请你帮我拿一下口服抗生�
 We will be in touch to further discuss any feedback you have on the property.   Please feel free to contact me with any questions.  我们将与您保持联系，以进一步讨论您的任何反馈在这个房产上。如果您有任何疑问，请随时与我联系。
 Don't get me wrong.  别误会我
 Did you get caught in traffic?   I was caught in traffic.  你被堵在交通中了吗？   我被堵在交通中了。
-I hate driving at peak times/rush hour.  我讨厌在高峰时段开车。   peak times=rush hour - 高峰期
-the soup has gone off   the soup is spoiled.  汤已经变质了。
+I hate driving at peak times.  我讨厌在高峰时段开车。   peak times - 高峰期
+the soup has gone off.  汤已经变质了。
 Do you feel like eating hot pot?  你想吃火锅吗？   feel like - 想干什么
 I have three buses to catch.  我有三班公交车要赶。
 I am so flat out.  我非常忙。
+I'm feeling a bit bored.  感觉有点无聊
 Do you see anything you like?  有什么你喜欢吃的吗？
 Can we please get past this?  我们能否不再讨论这个问题？
-They're fed up with the lack of progress in resolving the issue.  他们感到厌烦，对解决这个问题的进展缺乏满意。   be fed up with - 厌烦
 That is not going to help.  这毫无帮助。
 The way you treat people is the way they treat you back.  你怎么对待别人，别人就怎么对待你。
 Don't think I don't know what you're doing.  别以为我不知道你在干嘛。
@@ -142,6 +141,7 @@ Talk to the hand, I'm not interested.  别跟我说，我不感兴趣。
 I get off work.   I'm done for the day.  我今天的工作结束了
 I was late because I got stuck in traffic.  我工作迟到是因为交通堵塞。
 I had to make up a story to explain why I arrived late to the meeting.  我需要编一个故事来解释我为什么参加会议迟到。
+They're fed up with the lack of progress in resolving the issue.  他们感到厌烦，对解决这个问题的进展缺乏满意。   be fed up with - 厌烦
 I will set up all the things we need tomorrow.
 Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.
 I graduated from UQ with a master's degree in data science in 2022. 
