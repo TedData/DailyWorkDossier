@@ -142,7 +142,7 @@ I get off work.   I'm done for the day.  我今天的工作结束了
 I was late because I got stuck in traffic.  我工作迟到是因为交通堵塞。
 I had to make up a story to explain why I arrived late to the meeting.  我需要编一个故事来解释我为什么参加会议迟到。
 They're fed up with the lack of progress in resolving the issue.  他们感到厌烦，对解决这个问题的进展缺乏满意。   be fed up with - 厌烦
-I will set up all the things we need tomorrow.
+I will set up all the things we need tomorrow.  明天我会把我们需要的一切都安排好。
 Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.
 I graduated from UQ with a master's degree in data science in 2022. 
 Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia. 
