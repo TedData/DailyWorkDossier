@@ -147,8 +147,8 @@ Thank you for giving me the opportunity to be interviewed for this data engineer
 I graduated from UQ with a master's degree in data science in 2022. 
 Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia. 
 During this time, I have been quite exposed to the login role of how these samples were being logged into the computer   and how these data were transferred back to the customers, and that’s what led me to study data science.  quite expose - 相当程度的接触或了解
-Now I want to pursue my career as a data engineer because I am passionate about building and creating things that make others’ work easier. 
-Working on data is varied, it requires intense technical skills which I enjoy, and there is always something new and challenging to work on.
+Now I want to pursue my career as a data engineer because I am passionate about building and creating things that make others’ work easier.  pursue - 追寻   passionate - 充满激情或热情
+Working on data is varied, it requires intense technical skills which I enjoy, and there is always something new and challenging to work on.  varied - 多样化的   intense - 强大的
 A good team player is a good communicator; I always inform the team about what’s happening. 
 I always keep the team updated on my progress to ensure everyone is working toward the same goal to avoid repeating work or miscommunication.
 A good team player always works collaboratively within the team and actively contributes to the group in order to complete tasks and manage projects.
