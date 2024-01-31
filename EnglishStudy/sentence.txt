@@ -146,7 +146,7 @@ I will set up all the things we need tomorrow.  明天我会把我们需要的�
 Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.
 I graduated from UQ with a master's degree in data science in 2022. 
 Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia. 
-During this time, I have been quite exposed to the login role of how these samples were being logged into the computer   and how these data were transferred back to the customers, and that’s what led me to study data science. 
+During this time, I have been quite exposed to the login role of how these samples were being logged into the computer   and how these data were transferred back to the customers, and that’s what led me to study data science.  quite expose - 相当程度的接触或了解
 Now I want to pursue my career as a data engineer because I am passionate about building and creating things that make others’ work easier. 
 Working on data is varied, it requires intense technical skills which I enjoy, and there is always something new and challenging to work on.
 A good team player is a good communicator; I always inform the team about what’s happening. 
