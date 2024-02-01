@@ -145,19 +145,16 @@ They're fed up with the lack of progress in resolving the issue.  他们感到�
 I will set up all the things we need tomorrow.  明天我会把我们需要的一切都安排好。
 Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.
 I graduated from UQ with a master's degree in data science in 2022. 
-Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia. 
+Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia.  assistant - 助理
 During this time, I have been quite exposed to the login role of how these samples were being logged into the computer   and how these data were transferred back to the customers, and that’s what led me to study data science.  quite expose - 相当程度的接触或了解
 Now I want to pursue my career as a data engineer because I am passionate about building and creating things that make others’ work easier.  pursue - 追寻   passionate - 充满激情或热情
-Working on data is varied, it requires intense technical skills which I enjoy, and there is always something new and challenging to work on.  varied - 多样化的   intense - 强大的
+Working on data is varied, it requires intense technical skills which I enjoy,   and there is always something new and challenging to work on.  varied - 多样化的   intense - 强大的
 A good team player is a good communicator; I always inform the team about what’s happening. 
 I always keep the team updated on my progress to ensure everyone is working toward the same goal to avoid repeating work or miscommunication.
-A good team player always works collaboratively within the team and actively contributes to the group in order to complete tasks and manage projects.  actively - 积极的   contribute - 贡献
+A good team player always works collaboratively within the team   and actively contributes to the group in order to complete tasks   and manage projects.  actively - 积极的   contribute - 贡献
 A good team player always actively listens to co-workers/team members,   respects their ideas and is willing to share responsibility   when the team experiences difficulties.  experience - 经历
-A good team player also needs to be flexible. 
-I am able and always get myself ready to quickly adapt to new circumstances. 
-I always look forward to helping whenever the team needs me. 
-For example, we have a project due two days later and my manager hopes I can work overtime with the team to finish it before the deadline. 
-I’m flexible and available when they need me to work.
+A good team player also needs to be flexible.   I am able and always get myself ready to quickly adapt to new circumstances.   I always look forward to helping whenever the team needs me. 
+For example, we have a project due two days later   and my manager hopes I can work overtime with the team to finish it before the deadline.   I’m flexible and available when they need me to work.
 As a new grad with data science background, I wish to join a global tech-powered company to start gaining experience and exposure myself to build a long term career in data analysis. 
 It’s well known that your company is a technology and business focused company that provides IT and business consulting services to a variety of industries. 
 Also, your company has accredited courses and is committed to offering the highest standards of training in technology. 
