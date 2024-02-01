@@ -6,7 +6,7 @@ It wasn't easy, but I did it.  这不太容易，不过我做到了。
 I'm right on the edge.  我正处于崩溃的边缘。
 Let's not make this a competition.  这事我们就别互相攀比了。
 My day started with a fresh shower.
-The puffy fish is Viola's slave.
+The puffy fish is Viola's slave.  puffy fish - 河豚
 I can cross the street at the crosswalk, opposite to the pertrol station.  crosswalk - 人行横道   oppsite - 对面   pertrol station - 加油站
 How about you drop me off at the train station.
 It's not directly on our way, but it's no more than 2 or 3 blocks out of our way.  on our way - 顺道   out of our way - 不顺道
@@ -150,7 +150,7 @@ During this time, I have been quite exposed to the login role of how these sampl
 Now I want to pursue my career as a data engineer because I am passionate about building and creating things that make others’ work easier.  pursue - 追寻   passionate - 充满激情或热情
 Working on data is varied, it requires intense technical skills which I enjoy,   and there is always something new and challenging to work on.  varied - 多样化的   intense - 强大的
 A good team player is a good communicator; I always inform the team about what’s happening. 
-I always keep the team updated on my progress to ensure everyone is working toward the same goal to avoid repeating work or miscommunication.
+I always keep the team updated on my progress to ensure   everyone is working toward the same goal   to avoid repeating work or miscommunication.
 A good team player always works collaboratively within the team   and actively contributes to the group in order to complete tasks   and manage projects.  actively - 积极的   contribute - 贡献
 A good team player always actively listens to co-workers/team members,   respects their ideas and is willing to share responsibility   when the team experiences difficulties.  experience - 经历
 A good team player also needs to be flexible.   I am able and always get myself ready to quickly adapt to new circumstances.   I always look forward to helping whenever the team needs me. 
