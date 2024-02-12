@@ -120,7 +120,6 @@ Victoria pulled out as the host with less than 1000 days to go,   blaming billio
 Can you please grab me the oral antibiotics?  请你帮我拿一下口服抗生素吗？   Oral - 口服的   Antibiotics - 抗生素
 We will be in touch to further discuss any feedback you have on the property.   Please feel free to contact me with any questions.  我们将与您保持联系，以进一步讨论您的任何反馈在这个房产上。如果您有任何疑问，请随时与我联系。
 Don't get me wrong.  别误会我
-Did you get caught in traffic?   I was caught in traffic.  你被堵在交通中了吗？   我被堵在交通中了。
 I hate driving at peak times.  我讨厌在高峰时段开车。   peak times - 高峰期
 the soup has gone off.  汤已经变质了。
 Do you feel like eating hot pot?  你想吃火锅吗？   feel like - 想干什么
@@ -129,7 +128,6 @@ I am so flat out.  我非常忙。
 I'm feeling a bit bored.  感觉有点无聊
 Do you see anything you like?  有什么你喜欢吃的吗？
 Can we please get past this?  我们能否不再讨论这个问题？
-That is not going to help.  这毫无帮助。
 The way you treat people is the way they treat you back.  你怎么对待别人，别人就怎么对待你。
 Don't think I don't know what you're doing.  别以为我不知道你在干嘛。
 Should I wait for you to have dinner together?  我等你一起吃晚饭吗？
@@ -138,11 +136,17 @@ I don't want to engage with you over this issue/in this matter any further.  我
 Can you please prepare my breakfast for tomorrow morning?  你能帮我准备明天的早餐吗？
 When we were driving around in the Westfield car park,   did you feel nausea or vomit?/Do you get carsick?  当我们在Westfield停车场兜圈子时，你有感到恶心或呕吐吗？
 Talk to the hand, I'm not interested.  别跟我说，我不感兴趣。
+Did you get stuck/caught in traffic?   I was caught/stuck in traffic.  你被堵在交通中了吗？   我被堵在交通中了。
 I get off work.   I'm done for the day.  我今天的工作结束了
-I was late because I got stuck in traffic.  我工作迟到是因为交通堵塞。
 I had to make up a story to explain why I arrived late to the meeting.  我需要编一个故事来解释我为什么参加会议迟到。
 They're fed up with the lack of progress in resolving the issue.  他们感到厌烦，对解决这个问题的进展缺乏满意。   be fed up with - 厌烦
 I will set up all the things we need tomorrow.  明天我会把我们需要的一切都安排好。
+He offers up his city to hold the event again but only if Queensland and federal governments chip in.  他提议再次举办这个活动，但前提是昆士兰州和联邦政府提供资金支持。   chip in - 共同努力/出资
+We are not willing to pick up the cost of Victoria believed to have blown.   the cost has blown - 花超了
+The state would struggle to host a game by 2026.  struggle - 艰难/费劲
+The government didn't do proper due diligence.  do proper due diligence - 进行适当的尽职调查
+in the lead up to the 2026 decision.  从现在开始到2026年的决定之前
+I have been left in the lurch.  我被置于困境之中。   Left in the lurch - 被抛弃、被置于困境中、被无视或被遗弃
 Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.
 I graduated from UQ with a master's degree in data science in 2022. 
 Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia.  assistant - 助理
@@ -297,7 +301,7 @@ I have escalated your concern to a different team and they will get in touch wit
 I have meet the requirements of upgrading to a Gold level.
 It's on me.
 Can I bring you back something?  你要我给你带些什么。
-Let me finish.  让我说完。
+
 She has a right to know.  她有权知道。
 You had your chance.  给过你机会了。
 You're not really a morning person.  你不是一个早起的人。
