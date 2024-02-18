@@ -162,8 +162,8 @@ For example, we have a project due two days later   and my manager hopes I can w
 As a new grad with a background in data science,   I wish to join a global tech-powered company to gain experience   and expose myself to build a long-term career in data analysis.
 It’s well known that your company is a technology and business focused company   that provides IT and business consulting services to a variety of industries.  众所周知，你们公司是一家专注于技术和业务的公司，   为各行各业提供IT和商业咨询服务。   consult - 咨询   variety - 各种   industry - 行业
 Also, your company has accredited courses and is committed to offering the highest standards of training in technology.  此外，贵公司还拥有认证课程，并致力于提供技术领域最高标准的培训。   accredited - 官方认可的   commit - 承诺
-I wish to join your company because it offers new grad foundational training and then place them to relevant areas to achieve work experience.   需要修改
-I really like this program because this allows me to focus on individual learning with required support at the beginning   and offers me an opportunity to work in a supportive work environment compared to other company.
+I wish to join your company because it offers new grad foundational training   and then place them to relevant areas to achieve work experience.  我希望加入你们公司，因为它提供了新毕业生基础培训，   然后安排他们到相关领域获得工作经验。
+I really like this program because this allows me to focus on individual learning with required support at the beginning   and offers me an opportunity to work in a supportive work environment compared to other company.  我非常喜欢这个项目，因为它让我能够在开始时得到所需的支持，专注于个人学习，   并且提供了在支持性工作环境中工作的机会，与其他公司相比。
 What I’ve learnt from the university makes me a competent candidate for this position, which also will be of benefit to your company.
 I believe my knowledge and technical skills will help data scientists and analysts to quickly access the company’s large database and to identify trends and customer behaviour, in turn, increase customer satisfaction and profits.
 I am keen to learn and I am a quick learner, I can easily pick up new skills if required. 
