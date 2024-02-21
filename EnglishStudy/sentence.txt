@@ -153,7 +153,7 @@ Initially, I was working as a laboratory assistant at Symbio for 6 years in Aust
 During this time, I have been quite exposed to the login role of how these samples were being logged into the computer   and how these data were transferred back to the customers, and that’s what led me to study data science.  quite expose - 相当程度的接触或了解
 Now I want to pursue my career as a data engineer because I am passionate about building and creating things that make others’ work easier.  pursue - 追寻   passionate - 充满激情或热情
 Working on data is varied, it requires intense technical skills which I enjoy,   and there is always something new and challenging to work on.  varied - 多样化的   intense - 强大的
-A good team player is a good communicator; I always inform the team about what’s happening. 
+A good team player is a good communicator; I always inform the team about what’s happening.  一个优秀的团队合作者是一个优秀的沟通者；我总是告知团队发生了什么。
 I always keep the team updated on my progress to ensure   everyone is working toward the same goal   to avoid repeating work or miscommunication.
 A good team player always works collaboratively within the team   and actively contributes to the group in order to complete tasks   and manage projects.  一个优秀的团队合作者总是与团队协作，并积极为团队做出贡献，以完成任务和管理项目。   actively - 积极的   contribute - 贡献
 A good team player always actively listens to co-workers/team members,   respects their ideas and is willing to share responsibility   when the team experiences difficulties.  experience - 经历
