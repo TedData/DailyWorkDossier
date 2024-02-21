@@ -170,7 +170,7 @@ I am keen to learn and I am a quick learner, I can easily pick up new skills if 
 For example, when I work on a project at university, I came across a new software language NEO4J that I never used, so I watched lots of tutorial videos and search articles about how to use this language and then did lots of practice on NEO4J. 
 As a result, I used one day to learn NEO4J   and apply it to my knowledge graph project for creating the recommendation system.  结果，我只花了一天时间学习了NEO4J，   并将其应用到我的知识图谱项目中，用于创建推荐系统。
 I am a good team player; I work collaboratively with the team members, respect their opinions, respond to a task on time, and am willing to share responsibility when coming across difficulties.
-At this stage, my biggest weakness is the lack of industry-level experience.
+At this stage, my biggest weakness is the lack of industry-level experience.  在目前这个阶段，我最大的弱点是缺乏行业水平的经验。
 I've learned the basics such as database principles, advanced database systems and Python etc but I'm not at a point where I can satisfy all project requirements all by myself. 
 However, I am a fast learner and very keen to learn different coding languages so I am confident that I will be able to contribute to different components and adapt quickly to different processes and tools.
 Now, in terms of how to improve my weakness, I think the first step is to conduct some self-learning so I can familiarise myself with it and get ready to use the tool. 
