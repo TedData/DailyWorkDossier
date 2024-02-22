@@ -172,7 +172,7 @@ As a result, I used one day to learn NEO4J   and apply it to my knowledge graph 
 I am a good team player; I work collaboratively with the team members, respect their opinions, respond to a task on time, and am willing to share responsibility when coming across difficulties.
 At this stage, my biggest weakness is the lack of industry-level experience.  在目前这个阶段，我最大的弱点是缺乏行业水平的经验。
 I've learned the basics such as database principles, advanced database systems and Python etc but I'm not at a point where I can satisfy all project requirements all by myself. 
-However, I am a fast learner and very keen to learn different coding languages so I am confident that I will be able to contribute to different components and adapt quickly to different processes and tools.
+However, I am a fast learner and very keen to learn different coding languages   so I am confident that I will be able to contribute to different components   and adapt quickly to different processes and tools.  然而，我是一个快速学习者，非常渴望学习不同的编程语言，   因此我有信心我能够为不同的组件做出贡献，   并快速适应不同的流程和工具。
 Now, in terms of how to improve my weakness, I think the first step is to conduct some self-learning so I can familiarise myself with it and get ready to use the tool. 
 If I come across any difficulties I should seek help from my senior colleague or manager to overcome the issue. 
 Apart from that, I want to make sure that I dive super deep into the work so that I can understand project constraints under different circumstances. 
