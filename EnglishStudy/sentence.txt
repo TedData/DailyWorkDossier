@@ -141,24 +141,18 @@ I get off work.   I'm done for the day.  我今天的工作结束了
 I had to make up a story to explain why I arrived late to the meeting.  我需要编一个故事来解释我为什么参加会议迟到。
 They're fed up with the lack of progress in resolving the issue.  他们感到厌烦，对解决这个问题的进展缺乏满意。   be fed up with - 厌烦
 I will set up all the things we need tomorrow.  明天我会把我们需要的一切都安排好。
-He offers up his city to hold the event again but only if Queensland and federal governments chip in.  他提议再次举办这个活动，但前提是昆士兰州和联邦政府提供资金支持。   chip in - 共同努力/出资
-We are not willing to pick up the cost of Victoria believed to have blown.  the cost has blown - 花超了
-The state would struggle to host a game by 2026.  struggle - 艰难/费劲
-The government didn't do proper due diligence.  do proper due diligence - 进行适当的尽职调查
-in the lead up to the 2026 decision.  从现在开始到2026年的决定之前
-I have been left in the lurch.  我被置于困境之中。   Left in the lurch - 被抛弃、被置于困境中、被无视或被遗弃
 Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.
 I graduated from UQ with a master's degree in data science in 2022. 
 Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia.  assistant - 助理
 During this time, I have been quite exposed to the login role of how these samples were being logged into the computer   and how these data were transferred back to the customers, and that’s what led me to study data science.  quite expose - 相当程度的接触或了解
-Now I want to pursue my career as a data engineer because I am passionate about building and creating things that make others’ work easier.  pursue - 追寻   passionate - 充满激情或热情
+Now I want to pursue my career as a data engineer   because I am passionate about building and   creating things that make others’ work easier.  pursue - 追寻   passionate - 充满激情或热情
 Working on data is varied, it requires intense technical skills which I enjoy,   and there is always something new and challenging to work on.  varied - 多样化的   intense - 强大的
 A good team player is a good communicator; I always inform the team about what’s happening.  一个优秀的团队合作者是一个优秀的沟通者；我总是告知团队发生了什么。
 I always keep the team updated on my progress to ensure   everyone is working toward the same goal   to avoid repeating work or miscommunication.  我始终向团队通报我的进展，   以确保每个人都朝着同一个目标努力，   避免重复工作或误解。
 A good team player always works collaboratively within the team   and actively contributes to the group in order to complete tasks   and manage projects.  一个优秀的团队合作者总是与团队协作，并积极为团队做出贡献，以完成任务和管理项目。   actively - 积极的   contribute - 贡献
 A good team player always actively listens to co-workers/team members,   respects their ideas and is willing to share responsibility   when the team experiences difficulties.  experience - 经历
 A good team player also needs to be flexible.   I am able and always get myself ready to quickly adapt to new circumstances.   I always look forward to helping whenever the team needs me.  一个优秀的团队合作者也需要具备灵活性。   我有能力并且总是做好准备迅速适应新的情况。   我总是期待着在团队需要我的时候提供帮助。
-For example, we have a project due two days later   and my manager hopes I can work overtime with the team to finish it before the deadline.   I’m flexible and available when they need me to work.
+For example, we have a project due two days later   and my manager hopes I can work overtime with the team to finish it before the deadline.   I’m flexible and available when they need me to work.  例如，我们有一个项目在两天后到期，   我的经理希望我能与团队加班，提前完成任务。   我很灵活，也可以在他们需要我工作时提供帮助。
 As a new grad with a background in data science,   I wish to join a global tech-powered company to gain experience   and expose myself to build a long-term career in data analysis.  作为一名具有数据科学背景的新毕业生，   我希望加入一家全球科技驱动的公司，以获取经验   并使自己暴露于数据分析领域，从而建立长期的职业生涯。
 It’s well known that your company is a technology and business focused company   that provides IT and business consulting services to a variety of industries.  众所周知，你们公司是一家专注于技术和业务的公司，   为各行各业提供IT和商业咨询服务。   consult - 咨询   variety - 各种   industry - 行业
 Also, your company has accredited courses and is committed to offering the highest standards of training in technology.  此外，贵公司还拥有认证课程，并致力于提供技术领域最高标准的培训。   accredited - 官方认可的   commit - 承诺
@@ -169,23 +163,23 @@ I believe my knowledge and technical skills will help data scientists   and anal
 I am keen to learn and I am a quick learner, I can easily pick up new skills if required.  我热衷于学习，而且我学东西很快，如果需要的话，我可以轻松掌握新技能。
 For example, when I work on a project at university, I came across a new software language NEO4J that I never used, so I watched lots of tutorial videos and search articles about how to use this language and then did lots of practice on NEO4J. 
 As a result, I used one day to learn NEO4J   and apply it to my knowledge graph project for creating the recommendation system.  结果，我只花了一天时间学习了NEO4J，   并将其应用到我的知识图谱项目中，用于创建推荐系统。
-I am a good team player; I work collaboratively with the team members, respect their opinions, respond to a task on time, and am willing to share responsibility when coming across difficulties.
+I am a good team player; I work collaboratively with the team members,   respect their opinions, respond to a task on time,   and am willing to share responsibility when coming across difficulties.  我是一个良好的团队合作者；我与团队成员合作，   尊重他们的意见，及时响应任务，   并愿意在遇到困难时分享责任。
 At this stage, my biggest weakness is the lack of industry-level experience.  在目前这个阶段，我最大的弱点是缺乏行业水平的经验。
 I've learned the basics such as database principles, advanced database systems and Python etc   but I'm not at a point where I can satisfy all project requirements all by myself.  我已经学习了诸如数据库原理、高级数据库系统和 Python 等基础知识，   但我还没有达到可以完全独立满足所有项目要求的水平。
 However, I am a fast learner and very keen to learn different coding languages   so I am confident that I will be able to contribute to different components   and adapt quickly to different processes and tools.  然而，我是一个快速学习者，非常渴望学习不同的编程语言，   因此我有信心我能够为不同的组件做出贡献，   并快速适应不同的流程和工具。
-Now, in terms of how to improve my weakness, I think the first step is to conduct some self-learning so I can familiarise myself with it and get ready to use the tool.  现在，就如何改善我的弱点而言，我认为第一步是进行一些自学，这样我就能熟悉它并准备好使用这个工具。   in terms of - 在...方面   conduct - 执行、实施、进行   familiarize - 使熟悉，使了解，使熟悉某种事物或概念
+Now, in terms of how to improve my weakness, I think the first step is to conduct some self-learning   so I can familiarise myself with it and get ready to use the tool.  现在，就如何改善我的弱点而言，我认为第一步是进行一些自学，这样我就能熟悉它并准备好使用这个工具。   in terms of - 在...方面   conduct - 执行、实施、进行   familiarize - 使熟悉，使了解，使熟悉某种事物或概念
 If I come across any difficulties I should seek help from my senior colleague   or manager to overcome the issue.  如果我遇到任何困难，我应该向我的资深同事或经理寻求帮助来解决问题。
 Apart from that, I want to make sure that I dive super deep into the work   so that I can understand project constraints under different circumstances.  除此之外，我希望确保自己深入工作，以便我能够在不同情况下了解项目的约束条件。   dive super deep into the work - 非常深入地投入到工作中
-In doing so, finally, I can conquer my weakness and support the team delivering insights to our stakeholders.
-As a data engineer, I've mostly struggled with fulfilling the needs of all the departments within the company.
+In doing so, finally, I can conquer my weakness and support the team in delivering insights to our stakeholders.  这样做，最终，我可以克服我的弱点并支持团队向利益相关者提供洞察。
+As a data engineer, I've mostly struggled with fulfilling the needs of all the departments within the company.  作为一名数据工程师，我主要是在满足公司内所有部门的需求方面遇到了困难。
 Different departments often have conflicting demands. 
 So, balancing them with the capabilities of the company's infrastructure has been quite challenging. 
 Nevertheless, this has been a valuable learning experience for me, as it's given me the chance to learn how these departments work and their role in the overall structure of the company.
-I will try not to engage in conflict but would rather listen to other people’s opinions first.
-We can sit down and have some coffee for a chat. 
+I will try not to engage in conflict but would rather listen to other people’s opinions first.  我会尽量避免参与冲突，而更愿意先听取其他人的意见。
+We can sit down and have some coffee for a chat.  我们可以坐下来喝杯咖啡聊聊天。
 I believe the most important principle is to do the right thing for our customers and stakeholders. 
 I am very open-minded and am willing to accept the idea if that’s the right thing to do. 
-Also, I am very excited to share my ideas about discussing with others to find the best solution because, you know, people are reasonable.
+Also, I am very excited to share my ideas about discussing with others to find the best solution,   because, you know, people are reasonable.  另外，我非常兴奋地分享我的想法，与他人讨论以找到最佳解决方案，   因为你知道，人们是讲道理的。
 Honestly, I think everyone is under pressure more or less, so it is about how to adapt to an efficient routine to help you to reduce the amount of pressure. 
 So I will work on the most urgent or important tasks which require more focused time to complete it. 
 So first thing in my day, I will go through my inbox and take a look at the calendar to see what my day looks like. 
@@ -301,7 +295,12 @@ I have escalated your concern to a different team and they will get in touch wit
 I have meet the requirements of upgrading to a Gold level.
 It's on me.
 Can I bring you back something?  你要我给你带些什么。
-
+He offers up his city to hold the event again but only if Queensland and federal governments chip in.  他提议再次举办这个活动，但前提是昆士兰州和联邦政府提供资金支持。   chip in - 共同努力/出资
+We are not willing to pick up the cost of Victoria believed to have blown.  the cost has blown - 花超了
+The state would struggle to host a game by 2026.  struggle - 艰难/费劲
+The government didn't do proper due diligence.  do proper due diligence - 进行适当的尽职调查
+in the lead up to the 2026 decision.  从现在开始到2026年的决定之前
+I have been left in the lurch.  我被置于困境之中。   Left in the lurch - 被抛弃、被置于困境中、被无视或被遗弃
 She has a right to know.  她有权知道。
 You had your chance.  给过你机会了。
 You're not really a morning person.  你不是一个早起的人。
