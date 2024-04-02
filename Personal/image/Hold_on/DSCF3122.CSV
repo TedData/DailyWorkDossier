@@ -1,0 +1,12 @@
+Effect_information,
+MODEL,HM1,
+Firmware_version,3.02,
+Effect_profile,1.00,
+Date,2023/03/09,
+Effect_number,5,
+Effect1,FRAMES,FRAME_NORMAL,
+Effect2,FILTER,FILTER_NORMAL,
+Effect3,WAV,NONE,
+Effect4,QRPRINT,UNEXECUTED,
+Effect5,UPLOAD,UNEXECUTED,
+EOF
