@@ -161,7 +161,7 @@ I really like this program because this allows me to focus on individual learnin
 What I’ve learnt from the university makes me a competent candidate for this position,   which also will be of benefit to your company.  我从大学学到的知识使我成为这个职位的称职候选人，这也将对贵公司有利。   competent - 有能力的、胜任的、称职的
 I believe my knowledge and technical skills will help data scientists   and analysts to quickly access the company’s large database and to identify trends   and customer behaviour, in turn, increase customer satisfaction and profits.  我相信我的知识和技术技能将帮助数据科学家   和分析师快速访问公司的大型数据库，   并识别趋势和客户行为，从而提高客户满意度和利润。   identify - 识别   trend - 趋势   behaviour - 行为，举止，态度，活动方式
 I am keen to learn and I am a quick learner, I can easily pick up new skills if required.  我热衷于学习，而且我学东西很快，如果需要的话，我可以轻松掌握新技能。
-For example, when I work on a project at university, I came across a new software language NEO4J that I never used, so I watched lots of tutorial videos and search articles about how to use this language and then did lots of practice on NEO4J. 
+For example, when I work on a project at university,   I came across a new software language NEO4J that I never used,   so I watched lots of tutorial videos and search articles about how to use this language   and then did lots of practice on NEO4J.  例如，在大学的一个项目中，   我遇到了一个我从未使用过的新软件语言 NEO4J，   于是我观看了许多教程视频，并搜索了关于如何使用这种语言的文章，   然后在 NEO4J 上进行了大量实践。 
 As a result, I used one day to learn NEO4J   and apply it to my knowledge graph project for creating the recommendation system.  结果，我只花了一天时间学习了NEO4J，   并将其应用到我的知识图谱项目中，用于创建推荐系统。
 I am a good team player; I work collaboratively with the team members,   respect their opinions, respond to a task on time,   and am willing to share responsibility when coming across difficulties.  我是一个良好的团队合作者；我与团队成员合作，   尊重他们的意见，及时响应任务，   并愿意在遇到困难时分享责任。
 At this stage, my biggest weakness is the lack of industry-level experience.  在目前这个阶段，我最大的弱点是缺乏行业水平的经验。
@@ -172,24 +172,24 @@ If I come across any difficulties I should seek help from my senior colleague   
 Apart from that, I want to make sure that I dive super deep into the work   so that I can understand project constraints under different circumstances.  除此之外，我希望确保自己深入工作，以便我能够在不同情况下了解项目的约束条件。   dive super deep into the work - 非常深入地投入到工作中
 In doing so, finally, I can conquer my weakness and support the team in delivering insights to our stakeholders.  这样做，最终，我可以克服我的弱点并支持团队向利益相关者提供洞察。
 As a data engineer, I've mostly struggled with fulfilling the needs of all the departments within the company.  作为一名数据工程师，我主要是在满足公司内所有部门的需求方面遇到了困难。
-Different departments often have conflicting demands. 
-So, balancing them with the capabilities of the company's infrastructure has been quite challenging. 
-Nevertheless, this has been a valuable learning experience for me, as it's given me the chance to learn how these departments work and their role in the overall structure of the company.
+Different departments often have conflicting demands.  不同的部门经常有冲突的需求。   conflict - 冲突   demand - 需要
+So, balancing them with the capabilities of the company's infrastructure has been quite challenging.  因此，将它们与公司基础设施的能力平衡起来一直是一项相当具有挑战性的任务。   capability - 能力
+Nevertheless, this has been a valuable learning experience for me,   as it's given me the chance to learn how these departments work   and their role in the overall structure of the company.  然而，这对我来说是一次宝贵的学习经历，   因为它让我有机会了解这些部门的工作方式   以及它们在公司整体结构中的角色。   valuable - 值钱的，贵重的；有益的
 I will try not to engage in conflict but would rather listen to other people’s opinions first.  我会尽量避免参与冲突，而更愿意先听取其他人的意见。
 We can sit down and have some coffee for a chat.  我们可以坐下来喝杯咖啡聊聊天。
-I believe the most important principle is to do the right thing for our customers and stakeholders. 
-I am very open-minded and am willing to accept the idea if that’s the right thing to do. 
+I believe the most important principle is to do the right thing for our customers and stakeholders.  我认为最重要的原则是为我们的客户和利益相关者做正确的事情。
+I am very open-minded and am willing to accept the idea if that’s the right thing to do.  我非常开放思维，如果那是正确的事情，我愿意接受这个想法。
 Also, I am very excited to share my ideas about discussing with others to find the best solution,   because, you know, people are reasonable.  另外，我非常兴奋地分享我的想法，与他人讨论以找到最佳解决方案，   因为你知道，人们是讲道理的。
-Honestly, I think everyone is under pressure more or less, so it is about how to adapt to an efficient routine to help you to reduce the amount of pressure. 
-So I will work on the most urgent or important tasks which require more focused time to complete it. 
-So first thing in my day, I will go through my inbox and take a look at the calendar to see what my day looks like. 
-If my calendar is pretty open, then I will try to prioritise work that requires a chuck of focused time, like writing code. 
-If my day is packed with meetings, then I will prioritise the day to prepare the necessary material for the meeting to make it as efficient as possible. 
-If I feel stressed, I will give myself 5 minutes of coffee time to relax my mind.
-Another important thing is, to reach out for help when needed! You have a team for a reason and the success of the team relies on open communication.
-Firstly, I will build a rapport with my stakeholders by demonstrating my domain knowledge and technical skills so they can trust me I can deliver good insights to their business and share their concerns with me. 
-Then we will discuss the rough delivery time to manage their expectations.
-During the projects, I will initially make some assumptions and then always involve the stakeholders if they like my ideas or not, trying as much as I can to deliver the insight that they expected. 
+Honestly, I think everyone is under pressure more or less,   so it is about how to adapt to an efficient routine to help you to reduce the amount of pressure.  老实说，我认为每个人或多或少都承受着压力，   所以关键在于如何适应一种高效的日常安排来帮助你减少压力。
+So I will work on the most urgent or important tasks which require more focused time to complete it.  所以我会处理最紧急或最重要的任务，这些任务需要更集中的时间来完成。
+So first thing in my day, I will go through my inbox and take a look at the calendar to see what my day looks like.  所以在我一天的开始，我会查看我的收件箱并查看日历，了解我的一天的安排。
+If my calendar is pretty open, then I will try to prioritise work that requires a chuck of focused time, like writing code.  如果我的日历比较空闲，那么我会尽量优先处理需要大段集中时间的工作，比如编写代码。
+If my day is packed with meetings, then I will prioritise the day to prepare the necessary material for the meeting to make it as efficient as possible.  如果我的一天都安排满了会议，那么我会优先处理准备会议所需的必要材料，以使会议尽可能高效。
+If I feel stressed, I will give myself 5 minutes of coffee time to relax my mind.  如果我感到有压力，我会给自己5分钟的咖啡时间来放松一下思绪。
+Another important thing is, to reach out for help when needed! You have a team for a reason and the success of the team relies on open communication.  另一个重要的事情是，在需要时寻求帮助！你们有一个团队是有原因的，团队的成功依赖于开放的沟通。
+Firstly, I will build a rapport with my stakeholders by demonstrating my domain knowledge and technical skills so they can trust me I can deliver good insights to their business and share their concerns with me.  首先，我会通过展示我的专业知识和技术技能来与利益相关者建立良好的关系，这样他们就可以相信我能够为他们的业务提供良好的见解并与我分享他们的担忧。
+Then we will discuss the rough delivery time to manage their expectations.  然后，我们将讨论粗略的交付时间来管理他们的期望。
+During the projects, I will initially make some assumptions and then always involve the stakeholders if they like my ideas or not, trying as much as I can to deliver the insight that they expected.  在项目进行期间，我会最初做一些假设，然后始终在利益相关者是否喜欢我的想法方面进行参与，尽我所能地提供他们期望的见解。
 Consequently, adjust my analysis based on their feedback.
 For the first year of my program with your company, I plan to learn knowledge and expand my skills. 
 During the second year, I see myself being able to work very independently and be a competent staff that works collaboratively with other team members to successfully manage a project. 
