@@ -141,12 +141,12 @@ I get off work.   I'm done for the day.  我今天的工作结束了
 I had to make up a story to explain why I arrived late to the meeting.  我需要编一个故事来解释我为什么参加会议迟到。
 They're fed up with the lack of progress in resolving the issue.  他们感到厌烦，对解决这个问题的进展缺乏满意。   be fed up with - 厌烦
 I will set up all the things we need tomorrow.  明天我会把我们需要的一切都安排好。
-Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.
-I graduated from UQ with a master's degree in data science in 2022. 
-Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia.  assistant - 助理
-During this time, I have been quite exposed to the login role of how these samples were being logged into the computer   and how these data were transferred back to the customers, and that’s what led me to study data science.  quite expose - 相当程度的接触或了解
-Now I want to pursue my career as a data engineer   because I am passionate about building and   creating things that make others’ work easier.  pursue - 追寻   passionate - 充满激情或热情
-Working on data is varied, it requires intense technical skills which I enjoy,   and there is always something new and challenging to work on.  varied - 多样化的   intense - 强大的
+Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.  谢谢您今天给我机会面试贵公司的数据工程师职位。
+I graduated from UQ with a master's degree in data science in 2022.  我于2022年毕业于昆士兰大学，获得数据科学硕士学位。
+Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia.  最初，我在澳大利亚的Symbio公司担任实验室助理工作了6年。   assistant - 助理
+During this time, I have been quite exposed to the process of   how these samples were logged into the computer   and how this data was transferred back to the customers,   and that’s what led me to study data science.  在这段时间里，我接触到了   如何将这些样品记录到计算机中   以及如何将这些数据传输回客户的工作流程，   这促使我选择学习数据科学。   quite expose - 相当程度的接触或了解
+Now I want to pursue my career as a data engineer   because I am passionate about building and   creating things that make others’ work easier.  现在我想要将我的职业发展方向转向数据工程师，因为我热衷于构建   和创造能够让他人工作更轻松的事物。   pursue - 追寻   passionate - 充满激情或热情
+Working on data is varied, it requires intense technical skills which I enjoy,   and there is always something new and challenging to work on.  从事数据工作非常多样化，它需要我喜欢的强大技术技能，   并且总会有新的、具有挑战性的工作等待着我。   varied - 多样化的   intense - 强大的
 A good team player is a good communicator; I always inform the team about what’s happening.  一个优秀的团队合作者是一个优秀的沟通者；我总是告知团队发生了什么。
 I always keep the team updated on my progress to ensure   everyone is working toward the same goal   to avoid repeating work or miscommunication.  我始终向团队通报我的进展，   以确保每个人都朝着同一个目标努力，   避免重复工作或误解。
 A good team player always works collaboratively within the team   and actively contributes to the group in order to complete tasks   and manage projects.  一个优秀的团队合作者总是与团队协作，并积极为团队做出贡献，以完成任务和管理项目。   actively - 积极的   contribute - 贡献
@@ -182,9 +182,9 @@ I am very open-minded and am willing to accept the idea if that’s the right th
 Also, I am very excited to share my ideas about discussing with others to find the best solution,   because, you know, people are reasonable.  另外，我非常兴奋地分享我的想法，与他人讨论以找到最佳解决方案，   因为你知道，人们是讲道理的。
 Honestly, I think everyone is under pressure more or less,   so it is about how to adapt to an efficient routine to help you to reduce the amount of pressure.  老实说，我认为每个人或多或少都承受着压力，   所以关键在于如何适应一种高效的日常安排来帮助你减少压力。
 So I will work on the most urgent or important tasks which require more focused time to complete it.  所以我会处理最紧急或最重要的任务，这些任务需要更集中的时间来完成。
-So first thing in my day, I will go through my inbox and take a look at the calendar to see what my day looks like.  所以在我一天的开始，我会查看我的收件箱并查看日历，了解我的一天的安排。
-If my calendar is pretty open, then I will try to prioritise work that requires a chuck of focused time, like writing code.  如果我的日历比较空闲，那么我会尽量优先处理需要大段集中时间的工作，比如编写代码。
-If my day is packed with meetings, then I will prioritise the day to prepare the necessary material for the meeting to make it as efficient as possible.  如果我的一天都安排满了会议，那么我会优先处理准备会议所需的必要材料，以使会议尽可能高效。
+So first thing in my day, I will go through my inbox   and take a look at the calendar to see what my day looks like.  所以在我一天的开始，我会查看我的收件箱并查看日历，了解我的一天的安排。
+If my calendar is pretty open, then I will try to prioritise work   that requires a chuck of focused time, like writing code.  如果我的日历比较空闲，那么我会尽量优先处理   需要大段集中时间的工作，比如编写代码。
+If my day is packed with meetings,   then I will prioritise the day to prepare the necessary material for the meeting   to make it as efficient as possible.  如果我的一天都安排满了会议，   那么我会优先处理准备会议所需的必要材料，以使会议尽可能高效。
 If I feel stressed, I will give myself 5 minutes of coffee time to relax my mind.  如果我感到有压力，我会给自己5分钟的咖啡时间来放松一下思绪。
 Another important thing is, to reach out for help when needed! You have a team for a reason and the success of the team relies on open communication.  另一个重要的事情是，在需要时寻求帮助！你们有一个团队是有原因的，团队的成功依赖于开放的沟通。
 Firstly, I will build a rapport with my stakeholders by demonstrating my domain knowledge and technical skills so they can trust me I can deliver good insights to their business and share their concerns with me.  首先，我会通过展示我的专业知识和技术技能来与利益相关者建立良好的关系，这样他们就可以相信我能够为他们的业务提供良好的见解并与我分享他们的担忧。
