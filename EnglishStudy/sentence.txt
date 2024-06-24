@@ -111,7 +111,7 @@ If my offer is much lower than what the owner expect for,   Is the owner happy t
 I am counting on you.  我全指望你了。
 I appreciate it, but I've still got a lot to learn.  我很感激，我还有很多要学的东西。
 We've been through a lot of things together.  我们一起经历了风风雨雨。
-That's just a risk we'll have to take.  你没有选择。
+That's just a risk we'll have to take.  你没有选择。   risk - 风险
 Mater staff will have access to new vaccines that offer better protection against   the current strains of COVID-19.  澳洲马特医院的员工将获得新的疫苗，这些疫苗提供更好的保护，对抗当前的 COVID-19 变种。   have access to - 拥有权利或机会使用
 I am under a lot of pressure.   Don't stress out.  我承受着很大的压力。不要太焦虑。
 We won't know the figure until after the governments negotiation wrap up in London.  在政府谈判在伦敦结束之后，我们才会知道具体的数字。   wrap up - 指完成、总结或收尾某项活动、任务或事件
@@ -141,7 +141,7 @@ I get off work.   I'm done for the day.  我今天的工作结束了
 I had to make up a story to explain why I arrived late to the meeting.  我需要编一个故事来解释我为什么参加会议迟到。
 They're fed up with the lack of progress in resolving the issue.  他们感到厌烦，对解决这个问题的进展缺乏满意。   be fed up with - 厌烦
 I will set up all the things we need tomorrow.  明天我会把我们需要的一切都安排好。
-Thank you for giving me the opportunity to be interviewed for this data engineering position with your company today.  谢谢您今天给我机会面试贵公司的数据工程师职位。
+Thank you for giving me the opportunity to be interviewed   for this data engineering position with your company today.  谢谢您今天给我机会面试贵公司的   数据工程师职位。
 I graduated from UQ with a master's degree in data science in 2022.  我于2022年毕业于昆士兰大学，获得数据科学硕士学位。
 Initially, I was working as a laboratory assistant at Symbio for 6 years in Australia.  最初，我在澳大利亚的Symbio公司担任实验室助理工作了6年。   assistant - 助理
 During this time, I have been quite exposed to the process of   how these samples were logged into the computer   and how this data was transferred back to the customers,   and that’s what led me to study data science.  在这段时间里，我接触到了   如何将这些样品记录到计算机中   以及如何将这些数据传输回客户的工作流程，   这促使我选择学习数据科学。   quite expose - 相当程度的接触或了解
@@ -157,7 +157,7 @@ As a new grad with a background in data science,   I wish to join a global tech-
 It’s well known that your company is a technology and business focused company   that provides IT and business consulting services to a variety of industries.  众所周知，你们公司是一家专注于技术和业务的公司，   为各行各业提供IT和商业咨询服务。      consult - 咨询   variety - 各种   industry - 行业
 Also, your company has accredited courses   and is committed to offering the highest standards of training in technology.  此外，贵公司还拥有认证课程，   并致力于提供技术领域最高标准的培训。      accredited - 官方认可的   commit - 承诺
 I wish to join your company because it offers new grad foundational training   and then place them to relevant areas to achieve work experience.  我希望加入你们公司，因为它提供了新毕业生基础培训，   然后安排他们到相关领域获得工作经验。
-I really like this program because this allows me to focus on individual learning with required support at the beginning   and offers me an opportunity to work in a supportive work environment compared to other company.  我非常喜欢这个项目，因为它让我能够在开始时得到所需的支持，专注于个人学习，   并且提供了在支持性工作环境中工作的机会，与其他公司相比。
+I really like this program because this allows me to focus on individual learning   with required support at the beginning   and offers me an opportunity to work in a supportive work environment   compared to other company.  我非常喜欢这个项目，因为它让我能够在开始时得到所需的支持，   专注于个人学习，   并且提供了在支持性工作环境中工作的机会，   与其他公司相比。
 What I’ve learnt from the university makes me a competent candidate for this position,   which also will be of benefit to your company.  我从大学学到的知识使我成为这个职位的称职候选人，这也将对贵公司有利。   competent - 有能力的、胜任的、称职的
 I believe my knowledge and technical skills will help data scientists   and analysts to quickly access the company’s large database and to identify trends   and customer behaviour, in turn, increase customer satisfaction and profits.  我相信我的知识和技术技能将帮助数据科学家   和分析师快速访问公司的大型数据库，   并识别趋势和客户行为，从而提高客户满意度和利润。   identify - 识别   trend - 趋势   behaviour - 行为，举止，态度，活动方式
 I am keen to learn and I am a quick learner, I can easily pick up new skills if required.  我热衷于学习，而且我学东西很快，如果需要的话，我可以轻松掌握新技能。
@@ -165,89 +165,89 @@ For example, when I work on a project at university,   I came across a new softw
 As a result, I used one day to learn NEO4J   and apply it to my knowledge graph project for creating the recommendation system.  结果，我只花了一天时间学习了NEO4J，   并将其应用到我的知识图谱项目中，用于创建推荐系统。
 I am a good team player; I work collaboratively with the team members,   respect their opinions, respond to a task on time,   and am willing to share responsibility when coming across difficulties.  我是一个良好的团队合作者；我与团队成员合作，   尊重他们的意见，及时响应任务，   并愿意在遇到困难时分享责任。
 At this stage, my biggest weakness is the lack of industry-level experience.  在目前这个阶段，我最大的弱点是缺乏行业水平的经验。
-I've learned the basics such as database principles, advanced database systems and Python etc   but I'm not at a point where I can satisfy all project requirements all by myself.  我已经学习了诸如数据库原理、高级数据库系统和 Python 等基础知识，   但我还没有达到可以完全独立满足所有项目要求的水平。
+I've learned the basics such as   database principles, advanced database systems, Python, and so on,   but I'm not yet at a point   where I can satisfy all project requirements all by myself.  我已经学习了诸如   数据库原理、高级数据库系统和 Python 等基础知识，   但我还没有达到   可以完全独立满足所有项目要求的水平。
 However, I am a fast learner and very keen to learn different coding languages   so I am confident that I will be able to contribute to different components   and adapt quickly to different processes and tools.  然而，我是一个快速学习者，非常渴望学习不同的编程语言，   因此我有信心我能够为不同的组件做出贡献，   并快速适应不同的流程和工具。
-Now, in terms of how to improve my weakness, I think the first step is to conduct some self-learning   so I can familiarise myself with it and get ready to use the tool.  现在，就如何改善我的弱点而言，我认为第一步是进行一些自学，这样我就能熟悉它并准备好使用这个工具。   in terms of - 在...方面   conduct - 执行、实施、进行   familiarize - 使熟悉，使了解，使熟悉某种事物或概念
+Now, in terms of how to improve my weakness,   I think the first step is to conduct some self-learning   so I can familiarise myself with it   and get ready to use the tool.  现在，就如何改善我的弱点而言，   我认为第一步是进行一些自学，   这样我就能熟悉它   并准备好使用这个工具。   in terms of - 在...方面   conduct - 执行、实施、进行   familiarize - 使熟悉，使了解，使熟悉某种事物或概念
 If I come across any difficulties I should seek help from my senior colleague   or manager to overcome the issue.  如果我遇到任何困难，我应该向我的资深同事或经理寻求帮助来解决问题。
 Apart from that, I want to make sure that I dive super deep into the work   so that I can understand project constraints under different circumstances.  除此之外，我希望确保自己深入工作，以便我能够在不同情况下了解项目的约束条件。      dive super deep into the work - 非常深入地投入到工作中
-In doing so, finally, I can conquer my weakness and support the team in delivering insights to our stakeholders.  这样做，最终，我可以克服我的弱点并支持团队向利益相关者提供洞察。
-As a data engineer, I've mostly struggled with fulfilling the needs of all the departments within the company.  作为一名数据工程师，我主要是在满足公司内所有部门的需求方面遇到了困难。
+In doing so, finally, I can conquer my weakness   and support the team in delivering insights   to our stakeholders.  这样做，最终，我可以克服我的弱点   并支持团队向利益相关者   提供洞察。
+As a data engineer, I've mostly struggled with fulfilling   the needs of all the departments within the company.  作为一名数据工程师，我主要是在满足公司内所有部门的   需求方面遇到了困难。
 Different departments often have conflicting demands.  不同的部门经常有冲突的需求。   conflict - 冲突   demand - 需要
-So, balancing them with the capabilities of the company's infrastructure has been quite challenging.  因此，将它们与公司基础设施的能力平衡起来一直是一项相当具有挑战性的任务。   capability - 能力
+So, balancing them with the capabilities of   the company's infrastructure has been quite challenging.  因此，将它们与公司基础设施的能力平衡起来   一直是一项相当具有挑战性的任务。   capability - 能力
 Nevertheless, this has been a valuable learning experience for me,   as it's given me the chance to learn how these departments work   and their role in the overall structure of the company.  然而，这对我来说是一次宝贵的学习经历，   因为它让我有机会了解这些部门的工作方式   以及它们在公司整体结构中的角色。   valuable - 值钱的，贵重的；有益的
 I will try not to engage in conflict but would rather listen to other people’s opinions first.  我会尽量避免参与冲突，而更愿意先听取其他人的意见。
 We can sit down and have some coffee for a chat.  我们可以坐下来喝杯咖啡聊聊天。
-I believe the most important principle is to do the right thing for our customers and stakeholders.  我认为最重要的原则是为我们的客户和利益相关者做正确的事情。
+I believe the most important principle   is to do the right thing for our customers and stakeholders.  我认为最重要的原则   是为我们的客户和利益相关者做正确的事情。
 I am very open-minded and am willing to accept the idea if that’s the right thing to do.  我非常开放思维，如果那是正确的事情，我愿意接受这个想法。
-Also, I am very excited to share my ideas about discussing with others to find the best solution,   because, you know, people are reasonable.  另外，我非常兴奋地分享我的想法，与他人讨论以找到最佳解决方案，   因为你知道，人们是讲道理的。
+Also, I am very excited to share my ideas   about discussing with others to find the best solution,   because, you know, people are reasonable.  另外，我非常兴奋地分享我的想法，   与他人讨论以找到最佳解决方案，   因为你知道，人们是讲道理的。
 Honestly, I think everyone is under pressure more or less,   so it is about how to adapt to an efficient routine to help you to reduce the amount of pressure.  老实说，我认为每个人或多或少都承受着压力，   所以关键在于如何适应一种高效的日常安排来帮助你减少压力。
-So I will work on the most urgent or important tasks which require more focused time to complete it.  所以我会处理最紧急或最重要的任务，这些任务需要更集中的时间来完成。
+So I will work on the most urgent or important tasks   which require more focused time to complete it.  所以我会处理最紧急或最重要的任务，   这些任务需要更集中的时间来完成。
 So first thing in my day, I will go through my inbox   and take a look at the calendar to see what my day looks like.  所以在我一天的开始，我会查看我的收件箱并查看日历，了解我的一天的安排。
 If my calendar is pretty open, then I will try to prioritise work   that requires a chuck of focused time, like writing code.  如果我的日历比较空闲，那么我会尽量优先处理   需要大段集中时间的工作，比如编写代码。
-If my day is packed with meetings,   then I will prioritise the day to prepare the necessary material for the meeting   to make it as efficient as possible.  如果我的一天都安排满了会议，   那么我会优先处理准备会议所需的必要材料，以使会议尽可能高效。
+If my day is packed with meetings,   then I will prioritise the day to prepare the necessary material for the meeting   to make it as efficient as possible.  如果我的一天都安排满了会议，   那么我会优先处理准备会议所需的必要材料，以使会议尽可能高效。   material - 材料
 If I feel stressed, I will give myself 5 minutes of coffee time to relax my mind.  如果我感到有压力，我会给自己5分钟的咖啡时间来放松一下思绪。
-Another important thing is, to reach out for help when needed! You have a team for a reason and the success of the team relies on open communication.  另一个重要的事情是，在需要时寻求帮助！你们有一个团队是有原因的，团队的成功依赖于开放的沟通。
-Firstly, I will build a rapport with my stakeholders by demonstrating my domain knowledge and technical skills so they can trust me I can deliver good insights to their business and share their concerns with me.  首先，我会通过展示我的专业知识和技术技能来与利益相关者建立良好的关系，这样他们就可以相信我能够为他们的业务提供良好的见解并与我分享他们的担忧。
-Then we will discuss the rough delivery time to manage their expectations.  然后，我们将讨论粗略的交付时间来管理他们的期望。
-During the projects, I will initially make some assumptions and then always involve the stakeholders if they like my ideas or not, trying as much as I can to deliver the insight that they expected.  在项目进行期间，我会最初做一些假设，然后始终在利益相关者是否喜欢我的想法方面进行参与，尽我所能地提供他们期望的见解。
-Consequently, adjust my analysis based on their feedback.
-For the first year of my program with your company, I plan to learn knowledge and expand my skills. 
-During the second year, I see myself being able to work very independently and be a competent staff that works collaboratively with other team members to successfully manage a project. 
-In five years, I would like to be an industry expert within your company that others can come to for ideas and help. 
-I would like to keep myself up to date with new technologies and best practices in the data industry to ensure I can deliver the best results in my current and future roles. 
-Also, I would like to move into a mentorship role, where I can guide and mentor the new grads and a team to success.
-Once we were doing a project, and we realised three days before a project deadline that two of our teams are using incompatible software tools.
-As part of the team members, I remained calm and tried to find a way to deal with this without causing any delays.
-I talked to other team members and we made a plan that two of the team resourced compatible software tools and the rest were responsible for converting the work into a different format with using these tool.
-It was very close but we managed to get everything done on time.
-If assigned a task without enough information, I would promptly seek help from my supervisor or colleagues, presenting the problem and seeking a clear solution while gathering any necessary information. 
-I would adhere to company policies and procedures while completing the task within the time limit. 
-To overcome information gaps, I would first review available information and resources, and then communicate with relevant individuals to seek advice and guidance. 
-I would utilize their experience and knowledge to inspire and enable me to accomplish my task. 
-Lastly, I would conduct independent research, experiment, and study relevant literature and materials to increase my knowledge and skill to achieve better results.
-When it comes to learning a new technology, it's important to start with a thorough understanding of its fundamental concepts and principles, including its purpose, advantages, disadvantages, and workings. 
-I usually begin my learning journey by searching for documentation and tutorials from official sources, reference manuals, developer communities, and online resources. 
-Once I have a good grasp of the technology, I turn to online courses and training to gain practical skills and solve real-world problems through small-scale projects. 
-I also seek advice and information from colleagues, experts, and the developer community to stay current with the latest developments, troubleshoot issues, and gain valuable insights. 
-By following these steps, I can quickly and effectively learn new technologies, better prepare for stakeholder projects, and finally deliver high-quality outcomes.
-I’ve learned to manage my workload effectively to meet my deadlines. 
-For example, during my last semester, I have 3 projects and 1 final exam. 
-I prioritise my tasks and create a plan of action to complete them on time. 
-First I evaluate the workload and determine the deadlines, complexity and urgency of each project, which project requires my immediate attention and which ones can be postponed. 
-Based on the evaluation, I create a to-do list, ensuring that I complete the most critical task first. 
-Then is time management, I plan my time effectively by setting specific time blocks for each task and ensuring that I take regular breaks to avoid burnout. 
-I also set aside some buffer time for emergencies that may arise. 
-At same time, I keep my team members informed about my progress and ask for help if necessary. 
-By following these steps, I eventually completed my three projects and final exams achieving a satisfactory score.
-From my point of view, handling change in the workplace requires flexibility, adaptability and a willingness to learn and grow. 
-I recognise that change can be difficulty for many people, so I remain calm the focus on understanding the reason for the change and the potential benefits it may bring. 
-I proactively seek out all kinds of information about the change including what specifically is changing, what other recourses, and training may be needed for the change and what adjustments I should make to allow myself to adapt to the change. 
-Based on the information I’ve gathered, I develop a plan to manage the change. 
-This may involve setting new priorities, adjusting my work processes and learning new technical skills.
-During my spare time, I like to go to a beach on the weekend because this is a good time for me to empty my brain, take myself out from work pressure and enjoy the time with my family. 
-Apart from that, I like watching coding tutorials. 
-For example, I learnt Python and write some low-level computer games in Python. 
-Learning new skills and putting in into application made me feel satisfied.
-I used to work in the login department and get exposed to a large volume of data login duties. 
-Form then, I started to be passionate about the data industry, which lead me to study data science. 
-I found that data analysis is very important because it helps discover useful insights and we can use the insights to make a decision. 
-I wish I can use what I’ve learnt to help a company drive commercial actions and help this company to stand out from the competition.
-Our project involved using SQL language to efficiently manage the information of various vehicles in the system. 
-We implemented a number of features, including the ability to add, delete, and check vehicles as needed. 
-To take this a step further, we developed a user-friendly web page that seamlessly connects to a MySQL database using PHP language. 
-This allowed us to quickly and easily modify vehicle information directly from the web page interface. 
-By utilizing SQL and PHP, we were able to streamline the management of vehicle data and improve the efficiency of the system. 
-Also, the web page made it much easier for multiple users to access and make changes to the database, further improving the usability of the system.
-The project focused on analyzing sponsored political posts on Facebook targeted at US users, which involved a significant amount of data cleaning and organization. 
-Spark was used to effectively clean and extract high-quality data from the dataset. 
-Then used Tableau to visualize the data, including images and charts, to gain a better understanding of the trends and patterns within the dataset. 
-By analyzing the data, they were able to draw insightful conclusions that informed the mentor's research on political advertising on social media. 
-The use of both Spark and Tableau allowed for efficient data processing and presentation, which eventually contributed to the success of the project.
-My project aims to restore mosaics on human faces. 
-Initially, I train the model using a large dataset of face images. 
-Then, I break down each face into individual pixel points, and utilize the Recurrent Neural Network (RNN) algorithm to implement image restoration. 
-The RNN algorithm generates the next pixel point by using the previous pixel point as input, and this process repeats until the entire image is restored. 
-By using RNN, my project can effectively restore the mosaic of an image in a precise and accurate manner.
+Another important thing is,   to reach out for help when needed!   You have a team for a reason   and the success of the team relies on open communication.  另一个重要的事情是，   在需要时寻求帮助！   你们有一个团队是有原因的，   团队的成功依赖于开放的沟通。
+Firstly, I will build a rapport with my stakeholders   by demonstrating my domain knowledge and technical skills   so they can trust me I can deliver good insights to their business   and share their concerns with me.  首先，我会通过展示我的专业知识和技术技能来   与利益相关者建立良好的关系，这样他们就可以相信我能够为他们的业务提供良好的见解并   与我分享他们的担忧。   rapport - 和谐（关系）   demonstrating - 演示   concern - 担心
+Then we will discuss the rough delivery time to manage their expectations.  然后，我们将讨论粗略的交付时间来管理他们的期望。   rough - 粗略的
+During the projects, I will initially make some assumptions   and then always involve the stakeholders   if they like my ideas or not,   trying as much as I can to deliver the insight that they expected.  在项目进行期间，我会最初做一些假设，   然后始终在利益相关者   是否喜欢我的想法，   尽我所能地提供他们期望的见解。   assumptions - 假设   involve - 涉及
+Consequently, adjust my analysis based on their feedback.  因此，根据他们的反馈调整我的分析。
+For the first year of my program with your company,   I plan to learn knowledge and expand my skills.  在我与贵公司合作的第一年里，   我计划学习知识并扩展我的技能。   expand - 扩展
+During the second year,   I see myself being able to work very independently   and becoming a competent staff member who collaborates effectively   with other team members to successfully manage projects.  在第二年，   我认为自己能够非常独立地工作，   成为一名与其他团队成员有效合作   并成功管理项目的称职员工。
+In five years, I would like to be an industry expert within your company   that others can come to for ideas and help.  在五年内，我希望能成为贵公司内的行业专家，   成为他人寻求创意和帮助的对象。   industry - 行业   expert - 专家
+I would like to keep myself up to date with new technologies   and best practices in the data industry   to ensure I can deliver the best results in my current and future roles.  我希望能跟上数据行业的新技术   和最佳实践，   以确保我能在当前和未来的角色中交付最佳结果。   up to date - 最新
+Also, I would like to move into a mentorship role,   where I can guide and mentor the new grads and a team to success.  此外，我希望能进入指导角色，   指导和辅导新毕业生和团队走向成功。
+Once we were doing a project,   and we realised three days before the deadline   that two of our teams were using incompatible software tools.  有一次，我们在做一个项目时，   发现距离截止日期还有三天时，   我们的两个团队在使用不兼容的软件工具。
+As part of the team members,   I remained calm and tried to find a way   to deal with this without causing any delays.  作为团队成员的一部分，   我保持冷静并努力找到一种处理方法，   以避免造成任何延误。   calm - 镇静
+I talked to other team members, and we made a plan,   two of the teams would use compatible software tools,   while the others would be responsible   for converting their work into a different format using these tools.  我与其他团队成员交流后，我们制定了一个计划,   两个团队使用兼容的软件工具，   而其他团队负责使用这些工具   将他们的工作转换为不同的格式。
+It was very close but we managed to get everything done on time.  虽然时间非常紧迫，但我们还是按时完成了所有工作。
+If assigned a task without enough information,   I would promptly seek help from my supervisor or colleagues,   presenting the problem and seeking a clear solution   while gathering any necessary information.  如果分配了一个缺乏足够信息的任务，   我会立即寻求主管或同事的帮助。   我会提出问题，寻求清晰的解决方案，   并收集任何必要的信息。
+I would adhere to company policies and procedures   while completing the task within the time limit.  我会在规定的时间内遵守公司的政策   和流程完成任务。
+To overcome information gaps,   I would first review available information and resources,   and then communicate with relevant individuals   to seek advice and guidance.  为了弥补信息缺口，   我会首先审查现有的信息和资源，   然后与相关人员沟通，   寻求建议和指导。
+I would utilize their experience and knowledge to inspire and enable me to accomplish my task.  我会利用他们的经验和知识来激励和帮助我完成任务。
+Lastly, I would conduct independent research, experiment, and study relevant literature and materials to increase my knowledge and skill to achieve better results.  最后，我会进行独立研究、实验，并学习相关的文献和资料，以增加我的知识和技能，从而取得更好的结果。
+When it comes to learning a new technology, it's important to start with a thorough understanding of its fundamental concepts and principles, including its purpose, advantages, disadvantages, and workings.  学习新技术时，重要的是从彻底理解其基本概念和原理开始，包括其目的、优势、劣势和工作原理。
+I usually begin my learning journey by searching for documentation and tutorials from official sources, reference manuals, developer communities, and online resources.  我通常会从官方文档和教程、参考手册、开发者社区以及在线资源开始我的学习之旅。
+Once I have a good grasp of the technology, I turn to online courses and training to gain practical skills and solve real-world problems through small-scale projects.  一旦我对这项技术有了良好的掌握，我就会转向在线课程和培训，通过小规模项目获取实际技能并解决现实世界中的问题。
+I also seek advice and information from colleagues, experts, and the developer community to stay current with the latest developments, troubleshoot issues, and gain valuable insights.  我还会向同事、专家和开发者社区寻求建议和信息，以保持对最新进展的了解，解决问题并获得宝贵的见解。
+By following these steps, I can quickly and effectively learn new technologies, better prepare for stakeholder projects, and finally deliver high-quality outcomes.  通过遵循这些步骤，我可以快速有效地学习新技术，更好地为利益相关者的项目做准备，并最终交付高质量的成果。
+I’ve learned to manage my workload effectively to meet my deadlines.  我已经学会有效地管理我的工作量，以满足我的截止日期。
+For example, during my last semester, I had 3 projects and 1 final exam.  例如，在我上个学期，我有三个项目和一场期末考试。
+I prioritise my tasks and create a plan of action to complete them on time.  我会优先安排我的任务并制定行动计划，以便按时完成它们。
+First I evaluate the workload and determine the deadlines, complexity and urgency of each project, I identify which project requires my immediate attention and which ones can be postponed.  首先，我评估工作量并确定每个项目的截止日期、复杂度和紧急程度。我识别出哪个项目需要我立即关注，哪些可以推迟。 
+Based on the evaluation, I create a to-do list, ensuring that I complete the most critical task first.  根据评估，我创建一个待办事项列表，确保我先完成最关键的任务。
+Then is time management, I plan my time effectively by setting specific time blocks for each task and ensuring that I take regular breaks to avoid burnout.  接下来是时间管理方面，我通过为每个任务设定具体的时间段来有效规划我的时间，并确保我定期休息，以避免过度劳累。
+I also set aside some buffer time for emergencies that may arise.  我还为可能出现的紧急情况留出了一些缓冲时间。
+At the same time, I keep my team members informed about my progress and ask for help if necessary.  同时，我会让团队成员了解我的进展，并在必要时寻求帮助。
+By following these steps, I eventually completed my three projects and final exams achieving a satisfactory score.  通过遵循这些步骤，我最终完成了我的三个项目和期末考试，并取得了令人满意的成绩。
+From my point of view, handling change in the workplace requires flexibility, adaptability and a willingness to learn and grow.  在我看来，处理工作场所的变化需要灵活性、适应性和愿意学习和成长。
+I recognise that change can be difficulty for many people, so I remain calm the focus on understanding the reason for the change and the potential benefits it may bring.  我意识到变化对许多人来说可能很困难，因此我保持冷静，专注于理解变化的原因以及可能带来的潜在好处。
+I proactively seek out all kinds of information about the change, including what specifically is changing, what other resources and training may be needed for the change, and what adjustments I should make to allow myself to adapt to the change.  我积极寻找关于变化的各种信息，包括具体的变化内容、变化可能需要的其他资源和培训，以及我应该做出哪些调整来使自己适应这种变化。
+Based on the information I’ve gathered, I develop a plan to manage the change.  根据我收集到的信息，我制定了管理变化的计划。
+This may involve setting new priorities, adjusting my work processes and learning new technical skills.  这可能涉及设置新的优先级，调整我的工作流程，并学习新的技术技能。
+During my spare time, I like to go to a beach on the weekend because this is a good time for me to empty my brain, take myself out from work pressure and enjoy the time with my family.  在我空闲的时候，我喜欢在周末去海滩，因为这是我清空大脑、摆脱工作压力并享受与家人共度时光的好时机。
+Apart from that, I like watching coding tutorials.  除此之外，我喜欢看编程教程。
+For example, I learnt Python and write some low-level computer games in Python.  例如，我学习Python，并用Python编写了一些低级别的电脑游戏。
+Learning new skills and putting them into application made me feel satisfied.  学习新技能并将其应用使我感到满足。
+I used to work in the login department and get exposed to a large volume of data login duties.  我曾在登录部门工作，并接触到大量的登录数据工作。
+Form then on, I started to be passionate about the data industry, which lead me to study data science.  从那时起，我开始对数据行业充满热情，这促使我学习数据科学。
+I found that data analysis is very important because it helps discover useful insights and we can use the insights to make a decision.  我发现数据分析非常重要，因为它帮助发现有用的见解，我们可以利用这些见解来做出决策。
+I wish I could use what I’ve learnt to help a company drive commercial actions and help this company to stand out from the competition.  我希望能够运用我所学的知识帮助一家公司推动商业行动，并帮助这家公司在竞争中脱颖而出。
+Our project involved using SQL language to efficiently manage the information of various vehicles in the system.  我们的项目涉及使用SQL语言来高效管理系统中各种车辆的信息。
+We implemented a number of features, including the ability to add, delete, and check vehicles as needed.  我们实现了多项功能，包括根据需要添加、删除和检查车辆。
+To take this a step further, we developed a user-friendly web page that seamlessly connects to a MySQL database using PHP language.  为了更进一步，我们开发了一个用户友好的网页，利用PHP语言无缝连接到MySQL数据库。
+This allowed us to quickly and easily modify vehicle information directly from the web page interface.  这使我们能够通过网页界面直接快速、轻松地修改车辆信息。
+By utilizing SQL and PHP, we were able to streamline the management of vehicle data and improve the efficiency of the system.  通过利用SQL和PHP，我们能够简化车辆数据的管理，并提高系统的效率。
+Also, the web page made it much easier for multiple users to access and make changes to the database, further improving the usability of the system.  此外，这个网页使得多用户更容易访问并对数据库进行更改，进一步提高了系统的可用性。
+The project focused on analyzing sponsored political posts on Facebook targeted at US users, which involved a significant amount of data cleaning and organization.  该项目专注于分析针对美国用户的赞助政治帖子在Facebook上的情况，涉及大量的数据清洗和整理工作。
+Spark was used to effectively clean and extract high-quality data from the dataset.  Spark被用来有效地从数据集中清洗和提取高质量的数据。
+Then used Tableau to visualize the data, including images and charts, to gain a better understanding of the trends and patterns within the dataset.  然后使用Tableau来可视化数据，包括图像和图表，以更好地了解数据集中的趋势和模式。
+By analyzing the data, they were able to draw insightful conclusions that informed the mentor's research on political advertising on social media.  通过分析数据，他们能够得出有见地的结论，为导师在社交媒体政治广告研究方面提供了信息。
+The use of both Spark and Tableau allowed for efficient data processing and presentation, which eventually contributed to the success of the project.  同时使用Spark和Tableau实现了高效的数据处理和展示，最终为项目的成功做出了贡献。
+My project aims to restore mosaics on human faces.  我的项目旨在修复人脸上的马赛克。
+Initially, I train the model using a large dataset of face images.  起初，我使用大量的人脸图像数据集训练模型。
+Then, I break down each face into individual pixel points, and utilize the Recurrent Neural Network (RNN) algorithm to implement image restoration.  然后，我将每张脸分解成单独的像素点，并利用递归神经网络（RNN）算法实现图像修复。
+The RNN algorithm generates the next pixel point by using the previous pixel point as input, and this process repeats until the entire image is restored.  递归神经网络（RNN）算法通过使用前一个像素点作为输入来生成下一个像素点，并且这个过程重复，直到整张图像被恢复完成。
+By using RNN, my project can effectively restore the mosaic of an image in a precise and accurate manner.  通过使用RNN，我的项目能够以精确和准确的方式有效地恢复图像的马赛克。
 After 400 children, some as young as 10, have gate crashed (未被邀请或未经许可就闯入) a party in Logan that disintegrated into violence (局面逐渐走向 演变为暴力或混乱的状态).
 Police were forced to protect paramedics, trying to treat the injured and a 12-year-old girl was rushed to the hospital.
 Several people here got sexually assaulted outside and inside.
