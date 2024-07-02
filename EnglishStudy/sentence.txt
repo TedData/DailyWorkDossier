@@ -124,14 +124,13 @@ I hate driving at peak times.  我讨厌在高峰时段开车。   peak times - 
 the soup has gone off.  汤已经变质了。
 Do you feel like eating hot pot?  你想吃火锅吗？   feel like - 想干什么
 I have three buses to catch.  我有三班公交车要赶。
-I am so flat out.  我非常忙。
 I'm feeling a bit bored.  感觉有点无聊
 Do you see anything you like?  有什么你喜欢吃的吗？
 Can we please get past this?  我们能否不再讨论这个问题？
 The way you treat people is the way they treat you back.  你怎么对待别人，别人就怎么对待你。
 Don't think I don't know what you're doing.  别以为我不知道你在干嘛。
 Should I wait for you to have dinner together?  我等你一起吃晚饭吗？
-My tyre is flat.   My phone is flat.  我的轮胎没气了。  我的手机没电了。
+My tyre is flat.   My phone is flat.   I am so flat out.  我的轮胎没气了。   我的手机没电了。   我非常忙。
 I don't want to engage with you over this issue/in this matter any further.  我不想再进一步就这个问题与你讨论了。
 Can you please prepare my breakfast for tomorrow morning?  你能帮我准备明天的早餐吗？
 When we were driving around in the Westfield car park,   did you feel nausea or vomit?/Do you get carsick?  当我们在Westfield停车场兜圈子时，你有感到恶心或呕吐吗？
@@ -187,7 +186,7 @@ If my calendar is pretty open, then I will try to prioritise work   that require
 If my day is packed with meetings,   then I will prioritise the day to prepare the necessary material for the meeting   to make it as efficient as possible.  如果我的一天都安排满了会议，   那么我会优先处理准备会议所需的必要材料，以使会议尽可能高效。   material - 材料
 If I feel stressed, I will give myself 5 minutes of coffee time to relax my mind.  如果我感到有压力，我会给自己5分钟的咖啡时间来放松一下思绪。
 Another important thing is,   to reach out for help when needed!   You have a team for a reason   and the success of the team relies on open communication.  另一个重要的事情是，   在需要时寻求帮助！   你们有一个团队是有原因的，   团队的成功依赖于开放的沟通。
-Firstly, I will build a rapport with my stakeholders   by demonstrating my domain knowledge and technical skills   so they can trust me I can deliver good insights to their business   and share their concerns with me.  首先，我会通过展示我的专业知识和技术技能来   与利益相关者建立良好的关系，这样他们就可以相信我能够为他们的业务提供良好的见解并   与我分享他们的担忧。   rapport - 和谐（关系）   demonstrating - 演示   concern - 担心
+Firstly, I will build a rapport with my stakeholders   by demonstrating my domain knowledge and technical skills   so they can trust me I can deliver good insights to their business   and share their concerns with me.  首先，我会通过展示我的专业知识和技术技能来   与利益相关者建立良好的关系，   这样他们就可以相信我能够为他们的业务提供良好的见解并   与我分享他们的担忧。   rapport - 和谐（关系）   demonstrating - 演示   concern - 担心
 Then we will discuss the rough delivery time to manage their expectations.  然后，我们将讨论粗略的交付时间来管理他们的期望。   rough - 粗略的
 During the projects, I will initially make some assumptions   and then always involve the stakeholders   if they like my ideas or not,   trying as much as I can to deliver the insight that they expected.  在项目进行期间，我会最初做一些假设，   然后始终在利益相关者   是否喜欢我的想法，   尽我所能地提供他们期望的见解。   assumptions - 假设   involve - 涉及
 Consequently, adjust my analysis based on their feedback.  因此，根据他们的反馈调整我的分析。
@@ -195,36 +194,29 @@ For the first year of my program with your company,   I plan to learn knowledge 
 During the second year,   I see myself being able to work very independently   and becoming a competent staff member who collaborates effectively   with other team members to successfully manage projects.  在第二年，   我认为自己能够非常独立地工作，   成为一名与其他团队成员有效合作   并成功管理项目的称职员工。
 In five years, I would like to be an industry expert within your company   that others can come to for ideas and help.  在五年内，我希望能成为贵公司内的行业专家，   成为他人寻求创意和帮助的对象。   industry - 行业   expert - 专家
 I would like to keep myself up to date with new technologies   and best practices in the data industry   to ensure I can deliver the best results in my current and future roles.  我希望能跟上数据行业的新技术   和最佳实践，   以确保我能在当前和未来的角色中交付最佳结果。   up to date - 最新
-Also, I would like to move into a mentorship role,   where I can guide and mentor the new grads and a team to success.  此外，我希望能进入指导角色，   指导和辅导新毕业生和团队走向成功。
 Once we were doing a project,   and we realised three days before the deadline   that two of our teams were using incompatible software tools.  有一次，我们在做一个项目时，   发现距离截止日期还有三天时，   我们的两个团队在使用不兼容的软件工具。
 As part of the team members,   I remained calm and tried to find a way   to deal with this without causing any delays.  作为团队成员的一部分，   我保持冷静并努力找到一种处理方法，   以避免造成任何延误。   calm - 镇静
 I talked to other team members, and we made a plan,   two of the teams would use compatible software tools,   while the others would be responsible   for converting their work into a different format using these tools.  我与其他团队成员交流后，我们制定了一个计划,   两个团队使用兼容的软件工具，   而其他团队负责使用这些工具   将他们的工作转换为不同的格式。
 It was very close but we managed to get everything done on time.  虽然时间非常紧迫，但我们还是按时完成了所有工作。
 If assigned a task without enough information,   I would promptly seek help from my supervisor or colleagues,   presenting the problem and seeking a clear solution   while gathering any necessary information.  如果分配了一个缺乏足够信息的任务，   我会立即寻求主管或同事的帮助。   我会提出问题，寻求清晰的解决方案，   并收集任何必要的信息。
-I would adhere to company policies and procedures   while completing the task within the time limit.  我会在规定的时间内遵守公司的政策   和流程完成任务。
+I would adhere to company policies and procedures   while completing the task within the time limit.  我会在规定的时间内   遵守公司的政策和流程完成任务。   adhere - 坚持，遵守
 To overcome information gaps,   I would first review available information and resources,   and then communicate with relevant individuals   to seek advice and guidance.  为了弥补信息缺口，   我会首先审查现有的信息和资源，   然后与相关人员沟通，   寻求建议和指导。
-I would utilize their experience and knowledge to inspire and enable me to accomplish my task.  我会利用他们的经验和知识来激励和帮助我完成任务。
-Lastly, I would conduct independent research, experiment, and study relevant literature and materials to increase my knowledge and skill to achieve better results.  最后，我会进行独立研究、实验，并学习相关的文献和资料，以增加我的知识和技能，从而取得更好的结果。
-When it comes to learning a new technology, it's important to start with a thorough understanding of its fundamental concepts and principles, including its purpose, advantages, disadvantages, and workings.  学习新技术时，重要的是从彻底理解其基本概念和原理开始，包括其目的、优势、劣势和工作原理。
-I usually begin my learning journey by searching for documentation and tutorials from official sources, reference manuals, developer communities, and online resources.  我通常会从官方文档和教程、参考手册、开发者社区以及在线资源开始我的学习之旅。
-Once I have a good grasp of the technology, I turn to online courses and training to gain practical skills and solve real-world problems through small-scale projects.  一旦我对这项技术有了良好的掌握，我就会转向在线课程和培训，通过小规模项目获取实际技能并解决现实世界中的问题。
-I also seek advice and information from colleagues, experts, and the developer community to stay current with the latest developments, troubleshoot issues, and gain valuable insights.  我还会向同事、专家和开发者社区寻求建议和信息，以保持对最新进展的了解，解决问题并获得宝贵的见解。
-By following these steps, I can quickly and effectively learn new technologies, better prepare for stakeholder projects, and finally deliver high-quality outcomes.  通过遵循这些步骤，我可以快速有效地学习新技术，更好地为利益相关者的项目做准备，并最终交付高质量的成果。
+I would utilize their experience and knowledge   to inspire and enable me to accomplish my task.  我会利用他们的经验和知识   来激励和帮助我完成任务。   utilize - 善用   inspire - 激励   accomplish - 达到
+Lastly, I would conduct independent research, experiment,   and study relevant literature and materials   to increase my knowledge and skill   to achieve better results.  最后，我会进行独立研究、实验，   并学习相关的文献和资料，   以增加我的知识和技能，   从而取得更好的结果。   experiment - 实验   literature - 文献   material - 资料
+When it comes to learning a new technology,   it's important to start with a thorough understanding of its fundamental concepts and principles,   including its purpose, advantages, disadvantages, and workings.  学习新技术时，   重要的是从彻底理解其基本概念和原理开始，   包括其目的、优势、劣势和工作原理。   thorough - 全面   fundamental - 基本
+By following these steps,   I can quickly and effectively learn new technologies,   better prepare for stakeholder projects,   and finally deliver high-quality outcomes.  通过遵循这些步骤，   我可以快速有效地学习新技术，   更好地为利益相关者的项目做准备，   并最终交付高质量的成果。
 I’ve learned to manage my workload effectively to meet my deadlines.  我已经学会有效地管理我的工作量，以满足我的截止日期。
 For example, during my last semester, I had 3 projects and 1 final exam.  例如，在我上个学期，我有三个项目和一场期末考试。
 I prioritise my tasks and create a plan of action to complete them on time.  我会优先安排我的任务并制定行动计划，以便按时完成它们。
-First I evaluate the workload and determine the deadlines, complexity and urgency of each project, I identify which project requires my immediate attention and which ones can be postponed.  首先，我评估工作量并确定每个项目的截止日期、复杂度和紧急程度。我识别出哪个项目需要我立即关注，哪些可以推迟。 
-Based on the evaluation, I create a to-do list, ensuring that I complete the most critical task first.  根据评估，我创建一个待办事项列表，确保我先完成最关键的任务。
-Then is time management, I plan my time effectively by setting specific time blocks for each task and ensuring that I take regular breaks to avoid burnout.  接下来是时间管理方面，我通过为每个任务设定具体的时间段来有效规划我的时间，并确保我定期休息，以避免过度劳累。
-I also set aside some buffer time for emergencies that may arise.  我还为可能出现的紧急情况留出了一些缓冲时间。
-At the same time, I keep my team members informed about my progress and ask for help if necessary.  同时，我会让团队成员了解我的进展，并在必要时寻求帮助。
+First I evaluate the workload and determine the deadlines,   complexity and urgency of each project,   I identify which project requires my immediate attention   and which ones can be postponed.  首先，我评估工作量并确定每个项目的截止日期，   复杂度和紧急程度。   我识别出哪个项目需要我立即关注，   哪些可以推迟。   complexity - 复杂性   postponed - 推迟
+Based on the evaluation, I create a to-do list,   ensuring that I complete the most critical task first.  根据评估，我创建一个待办事项列表，   确保我先完成最关键的任务。
+Then is time management,   I plan my time effectively by setting specific time blocks for each task   and ensuring that I take regular breaks to avoid burnout.  接下来是时间管理方面，   我通过为每个任务设定具体的时间段来有效规划我的时间，   并确保我定期休息，以避免过度劳累。   effectively - 有效   burnout - 倦怠
+I also set aside some buffer time for emergencies that may arise.  我还为可能出现的紧急情况留出了一些缓冲时间。   buffer - 缓冲区   arise - 出现，发生
+At the same time, I keep my team members informed about my progress   and ask for help if necessary.  同时，我会让团队成员了解我的进展，   并在必要时寻求帮助。
 By following these steps, I eventually completed my three projects and final exams achieving a satisfactory score.  通过遵循这些步骤，我最终完成了我的三个项目和期末考试，并取得了令人满意的成绩。
 From my point of view, handling change in the workplace requires flexibility, adaptability and a willingness to learn and grow.  在我看来，处理工作场所的变化需要灵活性、适应性和愿意学习和成长。
-I recognise that change can be difficulty for many people, so I remain calm the focus on understanding the reason for the change and the potential benefits it may bring.  我意识到变化对许多人来说可能很困难，因此我保持冷静，专注于理解变化的原因以及可能带来的潜在好处。
-I proactively seek out all kinds of information about the change, including what specifically is changing, what other resources and training may be needed for the change, and what adjustments I should make to allow myself to adapt to the change.  我积极寻找关于变化的各种信息，包括具体的变化内容、变化可能需要的其他资源和培训，以及我应该做出哪些调整来使自己适应这种变化。
-Based on the information I’ve gathered, I develop a plan to manage the change.  根据我收集到的信息，我制定了管理变化的计划。
-This may involve setting new priorities, adjusting my work processes and learning new technical skills.  这可能涉及设置新的优先级，调整我的工作流程，并学习新的技术技能。
-During my spare time, I like to go to a beach on the weekend because this is a good time for me to empty my brain, take myself out from work pressure and enjoy the time with my family.  在我空闲的时候，我喜欢在周末去海滩，因为这是我清空大脑、摆脱工作压力并享受与家人共度时光的好时机。
+I recognise that change can be difficulty for many people,   so I remain calm the focus on understanding the reason for the change   and the potential benefits it may bring.  我意识到变化对许多人来说可能很困难，   因此我保持冷静，专注于理解变化的原因   以及可能带来的潜在好处。
+During my spare time, I like to go to a beach on the weekend   because this is a good time for me to empty my brain,   take myself out from work pressure and enjoy the time with my family.  在我空闲的时候，我喜欢在周末去海滩，   因为这是我清空大脑，   摆脱工作压力并享受与家人共度时光的好时机。
 Apart from that, I like watching coding tutorials.  除此之外，我喜欢看编程教程。
 For example, I learnt Python and write some low-level computer games in Python.  例如，我学习Python，并用Python编写了一些低级别的电脑游戏。
 Learning new skills and putting them into application made me feel satisfied.  学习新技能并将其应用使我感到满足。
@@ -248,6 +240,11 @@ Initially, I train the model using a large dataset of face images.  起初，我
 Then, I break down each face into individual pixel points, and utilize the Recurrent Neural Network (RNN) algorithm to implement image restoration.  然后，我将每张脸分解成单独的像素点，并利用递归神经网络（RNN）算法实现图像修复。
 The RNN algorithm generates the next pixel point by using the previous pixel point as input, and this process repeats until the entire image is restored.  递归神经网络（RNN）算法通过使用前一个像素点作为输入来生成下一个像素点，并且这个过程重复，直到整张图像被恢复完成。
 By using RNN, my project can effectively restore the mosaic of an image in a precise and accurate manner.  通过使用RNN，我的项目能够以精确和准确的方式有效地恢复图像的马赛克。
+
+
+
+
+
 After 400 children, some as young as 10, have gate crashed (未被邀请或未经许可就闯入) a party in Logan that disintegrated into violence (局面逐渐走向 演变为暴力或混乱的状态).
 Police were forced to protect paramedics, trying to treat the injured and a 12-year-old girl was rushed to the hospital.
 Several people here got sexually assaulted outside and inside.
